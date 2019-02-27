@@ -20,7 +20,7 @@ Work experience
 * Summer 2017: Research Intern
   * Mitsubishi Electric Research Labs (MERL)
   
-* Fall 2015: Research Intern
+* Summer 2016: Research Intern
   * Microsoft Research (MSR)
   
 
