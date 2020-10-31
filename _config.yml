@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eduardo Pavez"
 title_separator          : "-"
 name                     : &name "Eduardo"
-description              : &description "Ph.D. student at USC"
+description              : &description "Postdoc at USC"
 url                      : https://epavez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "epavez.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Eduardo Pavez"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in EE, USC"
+  bio              : "Postdoc at USC"
   location         : "LA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=O-I1ZnIAAAAJ"
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8985-2872"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
