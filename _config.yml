@@ -307,4 +307,6 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-tactile
+#theme: jekyll-theme-tactile
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
