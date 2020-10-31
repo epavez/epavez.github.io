@@ -11,12 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, University of Southern California, 2019 (expected)
+* Ph.D in Electrical Engineering, University of Southern California, 2019 
 * M.S. in Electrical Engineering, Universidad de Chile, 2013
 * B.S. in Electrical Engineering, Universidad de Chile, 2011
 
 Work experience
 ======
+* 2019 - present: Postdoc 
+  * University of Southern California
 * Summer 2017: Research Intern
   * Mitsubishi Electric Research Labs (MERL)
   
