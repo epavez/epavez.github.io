@@ -31,3 +31,24 @@ Conference
 * Pavez, Eduardo,  Benjamin Girault, Antonio Ortega and Philip A. Chou, "Region Adaptive Graph Fourier Transform for 3D Point Clouds," 2020 IEEE International Conference on Image Processing (ICIP), Abu Dhabi, United Arab Emirates, 2020, pp. 2726-2730.  <u><a href="https://arxiv.org/abs/2003.01866">[arxiv preprint] </a></u> <u><a href="https://github.com/STAC-USC/RA-GFT">[code]</a></u>  
 
 * Pavez, Eduardo, and Antonio Ortega. "An efficient algorithm for graph Laplacian optimization based on effective resistances." 2019 53rd Asilomar Conference on Signals, Systems, and Computers. IEEE, 2019. <u><a href="https://arxiv.org/abs/2004.08451">[arxiv preprint] </a></u> <u><a href="https://github.com/STAC-USC/graph_learning_CombLap">[code]</a></u>
+
+* Lu, Keng-Shih, Eduardo Pavez, and Antonio Ortega. "On learning laplacians of tree structured graphs." 2018 IEEE Data Science Workshop (DSW). IEEE, 2018.
+
+* Pavez, Eduardo, and Antonio Ortega. "Active covariance estimation by random sub-sampling of variables." 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2018.
+
+* Pavez, Eduardo, Hilmi E. Egilmez, and Antonio Ortega. "Learning graphs with monotone topology properties." 2017 IEEE Global Conference on Signal and Information Processing (GlobalSIP). IEEE, 2017.
+
+* Pavez, Eduardo, Antonio Ortega, and Debargha Mukherjee. "Learning separable transforms by inverse covariance estimation." 2017 IEEE International Conference on Image Processing (ICIP). IEEE, 2017.
+
+* Pavez, Eduardo, and Philip A. Chou. "Dynamic polygon cloud compression." 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2017.
+
+* Egilmez, Hilmi E., Eduardo Pavez, and Antonio Ortega. "Graph learning with Laplacian constraints: Modeling attractive Gaussian Markov random fields." 2016 50th Asilomar Conference on Signals, Systems and Computers. IEEE, 2016.
+
+* Pavez, Eduardo, and Antonio Ortega. "Generalized Laplacian precision matrix estimation for graph signal processing." 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2016.
+
+* Pavez, Eduardo, et al. "Markov chain sparsification with independent sets for approximate value iteration." 2015 53rd Annual Allerton Conference on Communication, Control, and Computing (Allerton). IEEE, 2015.
+
+* Pavez, Eduardo, et al. "GTT: Graph template transforms with applications to image coding." 2015 Picture Coding Symposium (PCS). IEEE, 2015.
+
+* Silva, Jorge F., and Eduardo Pavez. "Compressibility of infinite sequences and its interplay with compressed sensing recovery." Proceedings of The 2012 Asia Pacific Signal and Information Processing Association Annual Summit and Conference. IEEE, 2012.
+
