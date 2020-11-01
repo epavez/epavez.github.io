@@ -25,12 +25,3 @@ Work experience
   
 * Summer 2016: Research Intern
   * Microsoft Research (MSR)
-  
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
