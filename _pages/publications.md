@@ -16,17 +16,17 @@ Submitted
 
 Journal
 ======
-5. Egilmez, Hilmi E., Eduardo Pavez, and Antonio Ortega. "Graph learning from filtered signals: Graph system and diffusion kernel identification." IEEE Transactions on Signal and Information Processing over Networks 5.2 (2018): 360-374.
+* Egilmez, Hilmi E., Eduardo Pavez, and Antonio Ortega. "Graph learning from filtered signals: Graph system and diffusion kernel identification." IEEE Transactions on Signal and Information Processing over Networks 5.2 (2018): 360-374.
 
-4. Pavez, Eduardo, Philip A. Chou, Ricardo L. De Queiroz, and Antonio Ortega. "Dynamic polygon clouds: Representation and compression for VR/AR." APSIPA Transactions on Signal and Information Processing 7 (2018).
+* Pavez, Eduardo, Philip A. Chou, Ricardo L. De Queiroz, and Antonio Ortega. "Dynamic polygon clouds: Representation and compression for VR/AR." APSIPA Transactions on Signal and Information Processing 7 (2018).
 
-3. Pavez, Eduardo, Hilmi E. Egilmez, and Antonio Ortega. "Learning graphs with monotone topology properties and multiple connected components." IEEE Transactions on Signal Processing 66.9 (2018): 2399-2413.
+* Pavez, Eduardo, Hilmi E. Egilmez, and Antonio Ortega. "Learning graphs with monotone topology properties and multiple connected components." IEEE Transactions on Signal Processing 66.9 (2018): 2399-2413.
 
-2. Egilmez, Hilmi E., Eduardo Pavez, and Antonio Ortega. "Graph learning from data under Laplacian and structural constraints." IEEE Journal of Selected Topics in Signal Processing 11.6 (2017): 825-841.
+* Egilmez, Hilmi E., Eduardo Pavez, and Antonio Ortega. "Graph learning from data under Laplacian and structural constraints." IEEE Journal of Selected Topics in Signal Processing 11.6 (2017): 825-841.
 
-1. Pavez, Eduardo, and Jorge F. Silva. "Analysis and design of wavelet-packet cepstral coefficients for automatic speech recognition." Speech Communication 54.6 (2012): 814-835.
+* Pavez, Eduardo, and Jorge F. Silva. "Analysis and design of wavelet-packet cepstral coefficients for automatic speech recognition." Speech Communication 54.6 (2012): 814-835.
   
 Conference
 ======
-1. 
-2. 
+* 
+* 
