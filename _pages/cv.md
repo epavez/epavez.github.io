@@ -17,8 +17,9 @@ Education
 
 Work experience
 ======
-* 2019 - present: Postdoc 
+* 2019 - present: Postdoctoral Research Associate 
   * University of Southern California
+  
 * Summer 2017: Research Intern
   * Mitsubishi Electric Research Labs (MERL)
   
