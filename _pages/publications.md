@@ -10,9 +10,7 @@ You can  find my papers on <u><a href="https://scholar.google.com/citations?user
 
 Submitted
 ======
-* Ph.D in Electrical Engineering, University of Southern California, 2019 
-* M.S. in Electrical Engineering, Universidad de Chile, 2013
-* B.S. in Electrical Engineering, Universidad de Chile, 2011
+* E. Pavez, B. Girault, A. Ortega, P.A. Chou "Spectral folding and two-channel filter-banks on arbitrary graphs", submitted to ICASSP 2021, <u><a href="https://arxiv.org/abs/2010.12604">arxiv</a>.</u>
 
 Journal
 ======
