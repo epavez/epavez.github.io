@@ -25,3 +25,12 @@ Work experience
   
 * Summer 2016: Research Intern
   * Microsoft Research (MSR)
+
+Awards
+======
+
+* IEEE International Conference on Image Processing (ICIP) 2020, Best Paper Award
+
+* IEEE Picture Coding Symposium (PCS) 2015,  2nd place Best Student Paper Award
+
+* Annenberg PhD. Fellowship, University of Southern California, 2013
