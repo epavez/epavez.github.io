@@ -10,7 +10,8 @@ redirect_from:
 
 Ed
 
-## News
+News
+======
 * Best paper award ICIP 2020
 * 3 papers submitted to ICASSP 2021
 {: .notice}
