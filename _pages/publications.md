@@ -46,9 +46,9 @@ Conference
 
 * Pavez, Eduardo, and Antonio Ortega. "Generalized Laplacian precision matrix estimation for graph signal processing." 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2016.
 
-* Pavez, Eduardo, et al. "Markov chain sparsification with independent sets for approximate value iteration." 2015 53rd Annual Allerton Conference on Communication, Control, and Computing (Allerton). IEEE, 2015.
+* Pavez, Eduardo, Nicolò Michelusi, Aamir Anis, Urbashi Mitra, and Antonio Ortega. "Markov chain sparsification with independent sets for approximate value iteration." In 2015 53rd Annual Allerton Conference on Communication, Control, and Computing (Allerton), pp. 1399-1405. IEEE, 2015.
 
-* Pavez, Eduardo, et al. "GTT: Graph template transforms with applications to image coding." 2015 Picture Coding Symposium (PCS). IEEE, 2015.
+* Pavez, Eduardo, Hilmi E. Egilmez, Yongzhe Wang, and Antonio Ortega. "GTT: Graph template transforms with applications to image coding." In 2015 Picture Coding Symposium (PCS), pp. 199-203. IEEE, 2015.
 
 * Silva, Jorge F., and Eduardo Pavez. "Compressibility of infinite sequences and its interplay with compressed sensing recovery." Proceedings of The 2012 Asia Pacific Signal and Information Processing Association Annual Summit and Conference. IEEE, 2012.
 
