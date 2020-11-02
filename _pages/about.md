@@ -18,4 +18,4 @@ News
 
 [oct 2020] 3 papers submitted to ICASSP 2021 
 {% endcapture %}
-<div class="notice--info">{{news | markdownify}}</div>
+<div class="notice--success">{{news}}</div>
