@@ -10,9 +10,13 @@ redirect_from:
 
 Eduardo
 
-News {: .notice--success}
+News 
 =====
-[oct 2020] **Best paper award** ICIP 2020 [link](https://arxiv.org/abs/2003.01866) {: .notice--success}
+{: .notice--success}
 
-[oct 2020] 3 papers submitted to ICASSP 2021 {: .notice--success}
+[oct 2020] **Best paper award** ICIP 2020 [link](https://arxiv.org/abs/2003.01866)
+{: .notice--success}
+
+[oct 2020] 3 papers submitted to ICASSP 2021 
+{: .notice--success}
 
