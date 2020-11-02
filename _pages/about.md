@@ -16,4 +16,4 @@ Eduardo
 [oct 2020] **Best paper award** ICIP 2020 [link](https://arxiv.org/abs/2003.01866)
 
 [oct 2020] 3 papers submitted to ICASSP 2021 
-<div>
+</div>
