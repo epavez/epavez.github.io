@@ -10,8 +10,7 @@ redirect_from:
 
 Eduardo
 
-News 
-=====
+## News 
 {: .notice--success}
 
 [oct 2020] **Best paper award** ICIP 2020 [link](https://arxiv.org/abs/2003.01866)
