@@ -29,8 +29,8 @@ Work experience
 Awards
 ======
 
-* IEEE International Conference on Image Processing (ICIP) 2020, Best Paper Award
+* Best Paper Award, IEEE International Conference on Image Processing (ICIP) 2020
 
-* IEEE Picture Coding Symposium (PCS) 2015,  2nd place Best Student Paper Award
+* 2nd place Best Student Paper Award, IEEE Picture Coding Symposium (PCS) 2015
 
 * Annenberg PhD. Fellowship, University of Southern California, 2013
