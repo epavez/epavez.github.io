@@ -28,7 +28,7 @@ Journal
   
 Conference
 ======
-* Pavez, Eduardo,  Benjamin Girault, Antonio Ortega and Philip A. Chou, "Region Adaptive Graph Fourier Transform for 3D Point Clouds," 2020 IEEE International Conference on Image Processing (ICIP), Abu Dhabi, United Arab Emirates, 2020, pp. 2726-2730.  <u><a href="https://arxiv.org/abs/2003.01866">[arxiv preprint] </a></u> <u><a href="https://github.com/STAC-USC/RA-GFT">[code]</a></u>  (** Best paper award **)
+* Pavez, Eduardo,  Benjamin Girault, Antonio Ortega and Philip A. Chou, "Region Adaptive Graph Fourier Transform for 3D Point Clouds," 2020 IEEE International Conference on Image Processing (ICIP), Abu Dhabi, United Arab Emirates, 2020, pp. 2726-2730.  <u><a href="https://arxiv.org/abs/2003.01866">[arxiv preprint] </a></u> <u><a href="https://github.com/STAC-USC/RA-GFT">[code]</a></u>  (**Best paper award**)
 
 * Pavez, Eduardo, and Antonio Ortega. "An efficient algorithm for graph Laplacian optimization based on effective resistances." 2019 53rd Asilomar Conference on Signals, Systems, and Computers. IEEE, 2019. <u><a href="https://arxiv.org/abs/2004.08451">[arxiv preprint] </a></u> <u><a href="https://github.com/STAC-USC/graph_learning_CombLap">[code]</a></u>
 
@@ -48,7 +48,7 @@ Conference
 
 * Pavez, Eduardo, Nicolò Michelusi, Aamir Anis, Urbashi Mitra, and Antonio Ortega. "Markov chain sparsification with independent sets for approximate value iteration." In 2015 53rd Annual Allerton Conference on Communication, Control, and Computing (Allerton), pp. 1399-1405. IEEE, 2015.
 
-* Pavez, Eduardo, Hilmi E. Egilmez, Yongzhe Wang, and Antonio Ortega. "GTT: Graph template transforms with applications to image coding." In 2015 Picture Coding Symposium (PCS), pp. 199-203. IEEE, 2015. (** Runner-up best student paper award **)
+* Pavez, Eduardo, Hilmi E. Egilmez, Yongzhe Wang, and Antonio Ortega. "GTT: Graph template transforms with applications to image coding." In 2015 Picture Coding Symposium (PCS), pp. 199-203. IEEE, 2015. (**Runner-up best student paper award**)
 
 * Silva, Jorge F., and Eduardo Pavez. "Compressibility of infinite sequences and its interplay with compressed sensing recovery." Proceedings of The 2012 Asia Pacific Signal and Information Processing Association Annual Summit and Conference. IEEE, 2012.
 
