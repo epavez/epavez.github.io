@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Electrical Engineering, University of Southern California, 2019 
 * M.S. in Electrical Engineering, Universidad de Chile, 2013
-* B.S. in Electrical Engineering, Universidad de Chile, 2011
+* B.S. in Electrical Engineering (Ing. Civil Electricista), Universidad de Chile, 2011
 
 Work experience
 ======
