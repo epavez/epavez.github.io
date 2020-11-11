@@ -8,14 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Eduardo
+I am a postdoctoral researcher at the University of Southern California with Antonio Ortega. 
+
+My research  is on various aspects of  signal processing such as:
+
+* Graph learning
+* Multiresolutions on graphs
+* 3D point clouds
+* Multimedia compression
+* Covariance estimation
+ 
+ I am particularly interested in developing scalable graph signal processing algorithms. 
 
 
 {% capture news %}
 News 
 ===== 
-* [oct 2020] **Best paper award** ICIP 2020 [link](https://arxiv.org/abs/2003.01866)
+* **Best paper award** ICIP 2020 [link](https://arxiv.org/abs/2003.01866)
 
-* [oct 2020] 3 papers submitted to ICASSP 2021 
+* 3 papers submitted to ICASSP 2021 
 {% endcapture %}
 <div class="notice--success">{{news | markdownify}}</div>
