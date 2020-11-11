@@ -18,7 +18,7 @@ My research  is on various aspects of  signal processing such as:
 * Multimedia compression
 * Covariance estimation
  
- I am particularly interested in developing scalable graph signal processing algorithms. 
+ I am particularly interested in developing scalable graph signal processing algorithms by leveraging tools from graph theory, optimization and statistics.
 
 
 {% capture news %}
