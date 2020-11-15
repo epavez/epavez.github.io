@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I am a postdoctoral researcher at the University of Southern California with Antonio Ortega. 
-
-My research  is on various aspects of  signal processing such as:
+I am particularly interested in developing scalable graph signal processing algorithms by leveraging tools from graph theory, optimization and statistics.
+My research  covers various aspects of  signal processing such as:
 
 * Graph learning
 * Multiresolutions on graphs
@@ -18,14 +18,12 @@ My research  is on various aspects of  signal processing such as:
 * Multimedia compression
 * Covariance estimation
  
- I am particularly interested in developing scalable graph signal processing algorithms by leveraging tools from graph theory, optimization and statistics.
-
 
 {% capture news %}
 News 
 ===== 
-* **Best paper award** ICIP 2020 [link](https://arxiv.org/abs/2003.01866)
-
-* 3 papers submitted to ICASSP 2021 
+* 11/2020: Paper on covariance estimatin accepted in Transactions on Information Theory [preprint](https://arxiv.org/abs/1910.00667)
+* 10/2020: **Best paper award** ICIP 2020 [link](https://arxiv.org/abs/2003.01866)
+* 10/2020: 3 papers submitted to ICASSP 2021 
 {% endcapture %}
 <div class="notice--success">{{news | markdownify}}</div>
