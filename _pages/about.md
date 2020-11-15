@@ -21,7 +21,7 @@ My research  covers various aspects of  signal processing such as:
 News 
 ===== 
 * 11/2020: Paper on covariance estimatin accepted by IEEE Transactions on Information Theory [preprint](https://arxiv.org/abs/1910.00667)
-* 10/2020: **Best paper award** ICIP 2020, here is the  [paper](https://arxiv.org/abs/2003.01866), [code](https://github.com/STAC-USC/RA-GFT) and  [video presentation](https://www.youtube.com/watch?v=1veeyLxpDrM&ab_channel=epc_research)
+* 10/2020: **Best paper award** ICIP 2020, here are the  [paper](https://arxiv.org/abs/2003.01866), [code](https://github.com/STAC-USC/RA-GFT) and  [video presentation](https://www.youtube.com/watch?v=1veeyLxpDrM&ab_channel=epc_research)
 * 10/2020: 3 papers submitted to ICASSP 2021 
 {% endcapture %}
 <div class="notice--success">{{news | markdownify}}</div>
