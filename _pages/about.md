@@ -18,12 +18,12 @@ My research  covers various aspects of  signal processing such as:
 * Multimedia compression
 * Covariance estimation
  
-
 {% capture news %}
 News 
 ===== 
-* 11/2020: Paper on covariance estimatin accepted in Transactions on Information Theory [preprint](https://arxiv.org/abs/1910.00667)
-* 10/2020: **Best paper award** ICIP 2020 [link](https://arxiv.org/abs/2003.01866)
+* 11/2020: Paper on covariance estimatin accepted by IEEE Transactions on Information Theory [preprint](https://arxiv.org/abs/1910.00667)
+* 10/2020: **Best paper award** ICIP 2020, here is the  [paper](https://arxiv.org/abs/2003.01866) and the [video presentation](https://www.youtube.com/watch?v=1veeyLxpDrM&ab_channel=epc_research
+)
 * 10/2020: 3 papers submitted to ICASSP 2021 
 {% endcapture %}
 <div class="notice--success">{{news | markdownify}}</div>
