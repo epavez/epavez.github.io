@@ -12,11 +12,11 @@ Journal
 ======
 * Pavez, Eduardo, and   Antonio Ortega.<br>[Covariance Matrix Estimation with Non Uniform and Data Dependent Missing Observations](https://doi.org/10.1109/TIT.2020.3039118),  <br>IEEE Transactions on Information Theory, vol. 67, no. 2, pp. 1201-1215, Feb. 2021. [arxiv preprint](https://arxiv.org/abs/1910.00667) 
 
-* Egilmez, Hilmi E., Eduardo Pavez, and Antonio Ortega.<br>[Graph learning from filtered signals: Graph system and diffusion kernel identification](https://doi.org/10.1109/TSIPN.2018.2872157)<br> IEEE Transactions on Signal and Information Processing over Networks 5.2 (2018): 360-374. [arxiv preprint](https://arxiv.org/abs/1803.02553) [code](https://github.com/STAC-USC/Graph_Learning)
+* Egilmez, Hilmi E., Eduardo Pavez, and Antonio Ortega.<br>[Graph learning from filtered signals: Graph system and diffusion kernel identification](https://doi.org/10.1109/TSIPN.2018.2872157)<br>IEEE Transactions on Signal and Information Processing over Networks 5.2 (2018): 360-374. [arxiv preprint](https://arxiv.org/abs/1803.02553) [code](https://github.com/STAC-USC/Graph_Learning)
 
-* Pavez, Eduardo, Philip A. Chou, Ricardo L. De Queiroz, and Antonio Ortega. "Dynamic polygon clouds: Representation and compression for VR/AR" APSIPA Transactions on Signal and Information Processing 7 (2018). <u><a href="https://doi.org/10.1017/ATSIP.2018.15">[open access]</a></u>
+* Pavez, Eduardo, Philip A. Chou, Ricardo L. De Queiroz, and Antonio Ortega.<br>[Dynamic polygon clouds: Representation and compression for VR/AR](https://doi.org/10.1017/ATSIP.2018.15) <br>APSIPA Transactions on Signal and Information Processing 7 (2018), (open access). 
 
-* Pavez, Eduardo, Hilmi E. Egilmez, and Antonio Ortega. "Learning graphs with monotone topology properties and multiple connected components" IEEE Transactions on Signal Processing 66.9 (2018): 2399-2413. <u><a href="https://arxiv.org/abs/1705.10934">[arxiv preprint]</a></u>  <u><a href="https://github.com/STAC-USC/graph_learning_properties">[code]</a></u> 
+* Pavez, Eduardo, Hilmi E. Egilmez, and Antonio Ortega.<br>[Learning graphs with monotone topology properties and multiple connected components](https://doi.org/10.1109/TSP.2018.2813337) <br>IEEE Transactions on Signal Processing 66.9 (2018): 2399-2413. [arxiv preprint](https://arxiv.org/abs/1705.10934) [code](https://github.com/STAC-USC/graph_learning_properties) 
 
 * Egilmez, Hilmi E., Eduardo Pavez, and Antonio Ortega. "Graph learning from data under Laplacian and structural constraints" IEEE Journal of Selected Topics in Signal Processing 11.6 (2017): 825-841. <u><a href="https://arxiv.org/abs/1803.02553">[arxiv preprint]</a></u>  <u><a href="https://github.com/STAC-USC/Graph_Learning">[code]</a></u> 
 
