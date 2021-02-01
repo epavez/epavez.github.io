@@ -28,15 +28,15 @@ Conference
 
 * Pavez, Eduardo,  Benjamin Girault, Antonio Ortega and Philip A. Chou. <br>[Region Adaptive Graph Fourier Transform for 3D Point Clouds](https://doi.org/10.1109/ICIP40778.2020.9191183) <br>2020 IEEE International Conference on Image Processing (ICIP), Abu Dhabi, United Arab Emirates. [arxiv preprint](https://arxiv.org/abs/2003.01866) [code](https://github.com/STAC-USC/RA-GFT) [video presentation](https://www.youtube.com/watch?v=1veeyLxpDrM&ab_channel=epc_research) (**Best paper award**)
 
-* Pavez, Eduardo, and Antonio Ortega. <br>[An efficient algorithm for graph Laplacian optimization based on effective resistances](https://doi.org/10.1109/IEEECONF44664.2019.9048904) 2019 53rd Asilomar Conference on Signals, Systems, and Computers. [arxiv preprint](https://arxiv.org/abs/2004.08451)</a></u> <u><a href="https://github.com/STAC-USC/graph_learning_CombLap">[code]</a></u>
+* Pavez, Eduardo, and Antonio Ortega. <br>[An efficient algorithm for graph Laplacian optimization based on effective resistances](https://doi.org/10.1109/IEEECONF44664.2019.9048904) <br>2019 53rd Asilomar Conference on Signals, Systems, and Computers. [arxiv preprint](https://arxiv.org/abs/2004.08451) [code](https://github.com/STAC-USC/graph_learning_CombLap)
 
-* Lu, Keng-Shih, Eduardo Pavez, and Antonio Ortega. "On learning laplacians of tree structured graphs" 2018 IEEE Data Science Workshop (DSW). IEEE, 2018.
+* Lu, Keng-Shih, Eduardo Pavez, and Antonio Ortega. <br>[On learning laplacians of tree structured graphs](https://doi.org/10.1109/DSW.2018.8439909) <br>2018 IEEE Data Science Workshop (DSW).
 
-* Pavez, Eduardo, and Antonio Ortega. "Active covariance estimation by random sub-sampling of variables" 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2018.
+* Pavez, Eduardo, and Antonio Ortega. <br>[Active covariance estimation by random sub-sampling of variables](https://doi.org/10.1109/ICASSP.2018.8462134) <br>2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). [arxiv preprint](https://arxiv.org/abs/1804.01620)
 
-* Pavez, Eduardo, Hilmi E. Egilmez, and Antonio Ortega. "Learning graphs with monotone topology properties" 2017 IEEE Global Conference on Signal and Information Processing (GlobalSIP). IEEE, 2017.
+* Pavez, Eduardo, Hilmi E. Egilmez, and Antonio Ortega. "Learning graphs with monotone topology properties" 2017 IEEE Global Conference on Signal and Information Processing (GlobalSIP). 
 
-* Pavez, Eduardo, Antonio Ortega, and Debargha Mukherjee. "Learning separable transforms by inverse covariance estimation" 2017 IEEE International Conference on Image Processing (ICIP). IEEE, 2017.
+* Pavez, Eduardo, Antonio Ortega, and Debargha Mukherjee. "Learning separable transforms by inverse covariance estimation" 2017 IEEE International Conference on Image Processing (ICIP). 
 
 * Pavez, Eduardo, and Philip A. Chou. "Dynamic polygon cloud compression" 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2017.
 
