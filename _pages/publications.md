@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can also find my papers on <u><a href="https://scholar.google.com/citations?user=O-I1ZnIAAAAJ&hl=en"> Google Scholar</a>.</u>
+You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=O-I1ZnIAAAAJ&hl=en) <u><a href="https://scholar.google.com/citations?user=O-I1ZnIAAAAJ&hl=en"> Google Scholar</a>.</u>
 
 {% include base_path %}
 
