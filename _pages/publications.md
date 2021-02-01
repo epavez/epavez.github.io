@@ -4,13 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=O-I1ZnIAAAAJ&hl=en) <u><a href="https://scholar.google.com/citations?user=O-I1ZnIAAAAJ&hl=en"> Google Scholar</a>.</u>
+You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=O-I1ZnIAAAAJ&hl=en)
 
 {% include base_path %}
-
-Submitted
-======
-* E. Pavez, B. Girault, A. Ortega, P.A. Chou "Spectral folding and two-channel filter-banks on arbitrary graphs", submitted to ICASSP 2021, <u><a href="https://arxiv.org/abs/2010.12604">[arxiv preprint]</a></u>
 
 Journal
 ======
@@ -28,6 +24,8 @@ Journal
 
 Conference
 ======
+* E. Pavez, B. Girault, A. Ortega, P.A. Chou ["Spectral folding and two-channel filter-banks on arbitrary graphs"](https://arxiv.org/abs/2010.12604), 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), accepted.
+
 * Pavez, Eduardo,  Benjamin Girault, Antonio Ortega and Philip A. Chou, "Region Adaptive Graph Fourier Transform for 3D Point Clouds" 2020 IEEE International Conference on Image Processing (ICIP), Abu Dhabi, United Arab Emirates, 2020, pp. 2726-2730.  <u><a href="https://arxiv.org/abs/2003.01866">[arxiv preprint] </a></u> <u><a href="https://github.com/STAC-USC/RA-GFT">[code]</a></u> <u><a href=" https://www.youtube.com/watch?v=1veeyLxpDrM&ab_channel=epc_research">[video presentation] </a></u> (**Best paper award**)
 
 * Pavez, Eduardo, and Antonio Ortega. "An efficient algorithm for graph Laplacian optimization based on effective resistances" 2019 53rd Asilomar Conference on Signals, Systems, and Computers. IEEE, 2019. <u><a href="https://arxiv.org/abs/2004.08451">[arxiv preprint] </a></u> <u><a href="https://github.com/STAC-USC/graph_learning_CombLap">[code]</a></u>
