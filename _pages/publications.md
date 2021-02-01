@@ -18,9 +18,9 @@ Journal
 
 * Pavez, Eduardo, Hilmi E. Egilmez, and Antonio Ortega.<br>[Learning graphs with monotone topology properties and multiple connected components](https://doi.org/10.1109/TSP.2018.2813337) <br>IEEE Transactions on Signal Processing 66.9 (2018): 2399-2413. [arxiv preprint](https://arxiv.org/abs/1705.10934) [code](https://github.com/STAC-USC/graph_learning_properties) 
 
-* Egilmez, Hilmi E., Eduardo Pavez, and Antonio Ortega. "Graph learning from data under Laplacian and structural constraints" IEEE Journal of Selected Topics in Signal Processing 11.6 (2017): 825-841. <u><a href="https://arxiv.org/abs/1803.02553">[arxiv preprint]</a></u>  <u><a href="https://github.com/STAC-USC/Graph_Learning">[code]</a></u> 
+* Egilmez, Hilmi E., Eduardo Pavez, and Antonio Ortega. <br>[Graph learning from data under Laplacian and structural constraints](https://doi.org/10.1109/JSTSP.2017.2726975) <br>IEEE Journal of Selected Topics in Signal Processing 11.6 (2017) [arxiv preprint](https://arxiv.org/abs/1803.02553) [code](https://github.com/STAC-USC/Graph_Learning)
 
-* Pavez, Eduardo, and Jorge F. Silva. "Analysis and design of wavelet-packet cepstral coefficients for automatic speech recognition" Speech Communication 54.6 (2012): 814-835.
+* Pavez, Eduardo, and Jorge F. Silva.<br>[Analysis and design of wavelet-packet cepstral coefficients for automatic speech recognition](https://doi.org/10.1016/j.specom.2012.02.002) <br>Speech Communication 54.6 (2012): 814-835.
 
 Conference
 ======
