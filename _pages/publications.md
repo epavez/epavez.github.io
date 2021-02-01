@@ -38,13 +38,13 @@ Conference
 
 * Pavez, Eduardo, Antonio Ortega, and Debargha Mukherjee. "Learning separable transforms by inverse covariance estimation" 2017 IEEE International Conference on Image Processing (ICIP). 
 
-* Pavez, Eduardo, and Philip A. Chou. "Dynamic polygon cloud compression" 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
+* Pavez, Eduardo, and Philip A. Chou. <br>[Dynamic polygon cloud compression](https://doi.org/10.1109/ICASSP.2017.7952694) <br>2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
 
-* Egilmez, Hilmi E., Eduardo Pavez, and Antonio Ortega. "Graph learning with Laplacian constraints: Modeling attractive Gaussian Markov random fields" 2016 50th Asilomar Conference on Signals, Systems and Computers. 
+* Egilmez, Hilmi E., Eduardo Pavez, and Antonio Ortega. <br>[Graph learning with Laplacian constraints: Modeling attractive Gaussian Markov random fields](https://doi.org/10.1109/ACSSC.2016.7869621) <br>2016 50th Asilomar Conference on Signals, Systems and Computers. 
 
-* Pavez, Eduardo, and Antonio Ortega. "Generalized Laplacian precision matrix estimation for graph signal processing" 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
+* Pavez, Eduardo, and Antonio Ortega. <br>[Generalized Laplacian precision matrix estimation for graph signal processing](https://doi.org/10.1109/ICASSP.2016.7472899) <br>2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
 
-* Pavez, Eduardo, Nicolò Michelusi, Aamir Anis, Urbashi Mitra, and Antonio Ortega. "Markov chain sparsification with independent sets for approximate value iteration" In 2015 53rd Annual Allerton Conference on Communication, Control, and Computing (Allerton), pp. 1399-1405. IEEE, 2015.
+* Pavez, Eduardo, Nicolò Michelusi, Aamir Anis, Urbashi Mitra, and Antonio Ortega. <br>[Markov chain sparsification with independent sets for approximate value iteration](https://doi.org/10.1109/ALLERTON.2015.7447172) <br>2015 53rd Annual Allerton Conference on Communication, Control, and Computing (Allerton).
 
 * Pavez, Eduardo, Hilmi E. Egilmez, Yongzhe Wang, and Antonio Ortega. <br>[GTT: Graph template transforms with applications to image coding](https://doi.org/10.1109/PCS.2015.7170075) <br>2015 Picture Coding Symposium (PCS).  (**Runner-up best student paper award**)
 
