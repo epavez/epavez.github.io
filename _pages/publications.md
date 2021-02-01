@@ -10,7 +10,7 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 
 Journal
 ======
-* Pavez, Eduardo, and   Antonio. Ortega ["Covariance Matrix Estimation with Non Uniform and Data Dependent Missing Observations"](https://doi.org/10.1109/TIT.2020.3039118),  IEEE Transactions on Information Theory, vol. 67, no. 2, pp. 1201-1215, Feb. 2021. [arxiv preprint](https://arxiv.org/abs/1910.00667) 
+* Pavez, Eduardo, and   Antonio. Ortega.<br>["Covariance Matrix Estimation with Non Uniform and Data Dependent Missing Observations"](https://doi.org/10.1109/TIT.2020.3039118),  <br>IEEE Transactions on Information Theory, vol. 67, no. 2, pp. 1201-1215, Feb. 2021. [arxiv preprint](https://arxiv.org/abs/1910.00667) 
 
 * Egilmez, Hilmi E., Eduardo Pavez, and Antonio Ortega. "Graph learning from filtered signals: Graph system and diffusion kernel identification" IEEE Transactions on Signal and Information Processing over Networks 5.2 (2018): 360-374. <u><a href="https://arxiv.org/abs/1803.02553">[arxiv preprint]</a></u>  <u><a href="https://github.com/STAC-USC/Graph_Learning">[code]</a></u> 
 
