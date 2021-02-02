@@ -24,7 +24,7 @@ Journal
 
 Conference
 ======
-* E. Pavez, B. Girault, A. Ortega, P.A. Chou <br>[Spectral folding and two-channel filter-banks on arbitrary graphs]() <br>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). [arxiv preprint](https://arxiv.org/abs/2010.12604)
+* Pavez, Eduardo, Benjamin Girault, Antonio Ortega, Philip A. Chou. <br>[Spectral folding and two-channel filter-banks on arbitrary graphs]() <br>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). [arxiv preprint](https://arxiv.org/abs/2010.12604)
 
 * D.E.O. Tzamarias, E. Pavez, B. Girault, A. Ortega, I. Blanes, J. Serra-Sagrista. <br>[Exploiting Orthogonality and zero-DC tradeoffs in biorthogonal graph filterbanks]() <br>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 
