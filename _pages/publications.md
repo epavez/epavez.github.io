@@ -26,6 +26,10 @@ Conference
 ======
 * E. Pavez, B. Girault, A. Ortega, P.A. Chou <br>[Spectral folding and two-channel filter-banks on arbitrary graphs]() <br>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). [arxiv preprint](https://arxiv.org/abs/2010.12604)
 
+* D.E.O. Tzamarias, E. Pavez, B. Girault, A. Ortega, I. Blanes, J. Serra-Sagrista. <br>[Exploiting Orthogonality and zero-DC tradeoffs in biorthogonal graph filterbanks] <br>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+
+* T. Koyakumaru, M. Yukawa, E. Pavez, A. Ortega. <br>[A Graph Learning Algorithm Based on Gaussian Markov Random Fields and Minimax Concave Penalty] <br>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+
 * Pavez, Eduardo,  Benjamin Girault, Antonio Ortega and Philip A. Chou. <br>[Region Adaptive Graph Fourier Transform for 3D Point Clouds](https://doi.org/10.1109/ICIP40778.2020.9191183) <br>2020 IEEE International Conference on Image Processing (ICIP). [arxiv preprint](https://arxiv.org/abs/2003.01866) [code](https://github.com/STAC-USC/RA-GFT) [video presentation](https://www.youtube.com/watch?v=1veeyLxpDrM&ab_channel=epc_research) (**Best paper award**)
 
 * Pavez, Eduardo, and Antonio Ortega. <br>[An efficient algorithm for graph Laplacian optimization based on effective resistances](https://doi.org/10.1109/IEEECONF44664.2019.9048904) <br>2019 53rd Asilomar Conference on Signals, Systems, and Computers. [arxiv preprint](https://arxiv.org/abs/2004.08451) [code](https://github.com/STAC-USC/graph_learning_CombLap)
