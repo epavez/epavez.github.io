@@ -34,9 +34,9 @@ Conference
 
 * Pavez, Eduardo, and Antonio Ortega. <br>[Active covariance estimation by random sub-sampling of variables](https://doi.org/10.1109/ICASSP.2018.8462134) <br>2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). [arxiv preprint](https://arxiv.org/abs/1804.01620)
 
-* Pavez, Eduardo, Hilmi E. Egilmez, and Antonio Ortega. "Learning graphs with monotone topology properties" 2017 IEEE Global Conference on Signal and Information Processing (GlobalSIP). 
+* Pavez, Eduardo, Hilmi E. Egilmez, and Antonio Ortega. <br>[Learning graphs with monotone topology properties](https://doi.org/10.1109/GlobalSIP.2017.8309029) <br>2017 IEEE Global Conference on Signal and Information Processing (GlobalSIP). 
 
-* Pavez, Eduardo, Antonio Ortega, and Debargha Mukherjee. "Learning separable transforms by inverse covariance estimation" 2017 IEEE International Conference on Image Processing (ICIP). 
+* Pavez, Eduardo, Antonio Ortega, and Debargha Mukherjee. <br>[Learning separable transforms by inverse covariance estimation](https://doi.org/10.1109/ICIP.2017.8296288) <br>2017 IEEE International Conference on Image Processing (ICIP). 
 
 * Pavez, Eduardo, and Philip A. Chou. <br>[Dynamic polygon cloud compression](https://doi.org/10.1109/ICASSP.2017.7952694) <br>2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 
 
@@ -48,5 +48,5 @@ Conference
 
 * Pavez, Eduardo, Hilmi E. Egilmez, Yongzhe Wang, and Antonio Ortega. <br>[GTT: Graph template transforms with applications to image coding](https://doi.org/10.1109/PCS.2015.7170075) <br>2015 Picture Coding Symposium (PCS).  (**Runner-up best student paper award**)
 
-* Silva, Jorge F., and Eduardo Pavez. <br>[Compressibility of infinite sequences and its interplay with compressed sensing recovery](http://www.apsipa.org/proceedings_2012/papers/85.pdf) <br>Proceedings of The 2012 Asia Pacific Signal and Information Processing Association Annual Summit and Conference. 
+* Silva, Jorge F., and Eduardo Pavez. <br>[Compressibility of infinite sequences and its interplay with compressed sensing recovery](http://www.apsipa.org/proceedings_2012/papers/85.pdf) <br>2012 Asia Pacific Signal and Information Processing Association Annual Summit and Conference. 
 
