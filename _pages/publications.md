@@ -30,7 +30,7 @@ Conference
 
 * T. Koyakumaru, M. Yukawa, E. Pavez, A. Ortega. <br>[A Graph Learning Algorithm Based on Gaussian Markov Random Fields and Minimax Concave Penalty](https://doi.org/10.1109/ICASSP39728.2021.9413850) <br>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 
-* Pavez, Eduardo,  Benjamin Girault, Antonio Ortega and Philip A. Chou. <br>[Region Adaptive Graph Fourier Transform for 3D Point Clouds](https://doi.org/10.1109/ICIP40778.2020.9191183) <br>2020 IEEE International Conference on Image Processing (ICIP). <br>[arxiv preprint](https://arxiv.org/abs/2003.01866) [code](https://github.com/STAC-USC/RA-GFT) [video presentation](https://www.youtube.com/watch?v=1veeyLxpDrM&ab_channel=epc_research) <br>(**Best paper award**)
+* Pavez, Eduardo,  Benjamin Girault, Antonio Ortega and Philip A. Chou. <br>[Region Adaptive Graph Fourier Transform for 3D Point Clouds](https://doi.org/10.1109/ICIP40778.2020.9191183) <br>2020 IEEE International Conference on Image Processing (ICIP). <br>[arxiv preprint](https://arxiv.org/abs/2003.01866) [code](https://github.com/STAC-USC/RA-GFT) [video presentation](https://www.youtube.com/watch?v=1veeyLxpDrM&ab_channel=epc_research) <br>**Best paper award**
 
 * Pavez, Eduardo, and Antonio Ortega. <br>[An efficient algorithm for graph Laplacian optimization based on effective resistances](https://doi.org/10.1109/IEEECONF44664.2019.9048904) <br>2019 53rd Asilomar Conference on Signals, Systems, and Computers. <br>[arxiv preprint](https://arxiv.org/abs/2004.08451) [code](https://github.com/STAC-USC/graph_learning_CombLap)
 
@@ -50,7 +50,7 @@ Conference
 
 * Pavez, Eduardo, Nicolò Michelusi, Aamir Anis, Urbashi Mitra, and Antonio Ortega. <br>[Markov chain sparsification with independent sets for approximate value iteration](https://doi.org/10.1109/ALLERTON.2015.7447172) <br>2015 53rd Annual Allerton Conference on Communication, Control, and Computing (Allerton).
 
-* Pavez, Eduardo, Hilmi E. Egilmez, Yongzhe Wang, and Antonio Ortega. <br>[GTT: Graph template transforms with applications to image coding](https://doi.org/10.1109/PCS.2015.7170075) <br>2015 Picture Coding Symposium (PCS).  (**Runner-up best student paper award**)
+* Pavez, Eduardo, Hilmi E. Egilmez, Yongzhe Wang, and Antonio Ortega. <br>[GTT: Graph template transforms with applications to image coding](https://doi.org/10.1109/PCS.2015.7170075) <br>2015 Picture Coding Symposium (PCS).  <br>**Runner-up best student paper award**
 
 * Silva, Jorge F., and Eduardo Pavez. <br>[Compressibility of infinite sequences and its interplay with compressed sensing recovery](http://www.apsipa.org/proceedings_2012/papers/85.pdf) <br>2012 Asia Pacific Signal and Information Processing Association Annual Summit and Conference. 
 
