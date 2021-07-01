@@ -29,7 +29,7 @@ Conference
 
 * S. N. Sridhara, E. Pavez, A. Ortega. <br>[Cylindrical Coordinates for Lidar Point Cloud Compression]() <br>2021 IEEE International Conference on Image Processing (ICIP). <br>[arxiv preprint](https://arxiv.org/abs/2106.11237)
 
-* Pavez, Eduardo, Benjamin Girault, Antonio Ortega, Philip A. Chou. <br>[Spectral folding and two-channel filter-banks on arbitrary graphs](https://doi.org/10.1109/ICASSP39728.2021.9414066) <br>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). <br>[arxiv preprint](https://arxiv.org/abs/2010.12604)
+* Pavez, Eduardo, Benjamin Girault, Antonio Ortega, Philip A. Chou. <br>[Spectral folding and two-channel filter-banks on arbitrary graphs](https://doi.org/10.1109/ICASSP39728.2021.9414066) <br>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). <br>[arxiv preprint](https://arxiv.org/abs/2010.12604) [video presentation](https://www.youtube.com/watch?v=AqmjH1uK8U0&ab_channel=epc_research)
 
 * D.E.O. Tzamarias, E. Pavez, B. Girault, A. Ortega, I. Blanes, J. Serra-Sagrista. <br>[Exploiting Orthogonality and zero-DC tradeoffs in biorthogonal graph filterbanks](https://doi.org/10.1109/ICASSP39728.2021.9413392) <br>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 
