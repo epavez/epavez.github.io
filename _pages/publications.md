@@ -25,9 +25,9 @@ Journal
 Conference
 ======
 
-* E. Pavez, A.L. Souto, R.L. De Queiroz, A. Ortega. <br>[Multi-resolution intra-predictive coding of 3D point cloud attributes]() <br>2021 IEEE International Conference on Image Processing (ICIP). <br>[arxiv preprint](https://arxiv.org/abs/2106.08562)
+* E. Pavez, A.L. Souto, R.L. De Queiroz, A. Ortega. <br>[Multi-resolution intra-predictive coding of 3D point cloud attributes](https://doi.org/10.1109/ICIP42928.2021.9506641) <br>2021 IEEE International Conference on Image Processing (ICIP). <br>[arxiv preprint](https://arxiv.org/abs/2106.08562)
 
-* S. N. Sridhara, E. Pavez, A. Ortega. <br>[Cylindrical Coordinates for Lidar Point Cloud Compression]() <br>2021 IEEE International Conference on Image Processing (ICIP). <br>[arxiv preprint](https://arxiv.org/abs/2106.11237)
+* S. N. Sridhara, E. Pavez, A. Ortega. <br>[Cylindrical Coordinates for Lidar Point Cloud Compression](https://doi.org/10.1109/ICIP42928.2021.9506448) <br>2021 IEEE International Conference on Image Processing (ICIP). <br>[arxiv preprint](https://arxiv.org/abs/2106.11237)
 
 * Pavez, Eduardo, Benjamin Girault, Antonio Ortega, Philip A. Chou. <br>[Spectral folding and two-channel filter-banks on arbitrary graphs](https://doi.org/10.1109/ICASSP39728.2021.9414066) <br>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). <br>[arxiv preprint](https://arxiv.org/abs/2010.12604) [video presentation](https://www.youtube.com/watch?v=AqmjH1uK8U0&ab_channel=epc_research)
 
