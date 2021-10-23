@@ -5,7 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-Code
 {% include base_path %}
 
 3D point clouds
