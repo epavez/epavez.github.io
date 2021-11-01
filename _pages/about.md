@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the University of Southern California with Antonio Ortega. 
+I am a postdoctoral researcher at the University of Southern California working with [Prof. Antonio Ortega](http://biron.usc.edu/wiki/index.php/Antonio_Ortega). 
 I am particularly interested in developing scalable graph signal processing algorithms by leveraging tools from graph theory, optimization and statistics.
 My research  covers various aspects of  signal processing such as:
 
