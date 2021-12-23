@@ -9,7 +9,7 @@ author_profile: true
 
 3D point clouds
 ===============
-* [Matlab code](https://github.com/STAC-USC/RA-GFT) for our   [ICIP 2021 paper](https://arxiv.org/abs/2003.01866) on compression of 3d point cloud attributes with the region adaptive graph Fourier transform (RAGFT).
+* [Matlab code](https://github.com/STAC-USC/RA-GFT) for our   [ICIP 2020 paper](https://arxiv.org/abs/2003.01866) on compression of 3d point cloud attributes with the region adaptive graph Fourier transform (RAGFT).
 
 Graph learning
 ==============
