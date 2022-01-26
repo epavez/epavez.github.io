@@ -24,6 +24,7 @@ Journal
 
 Conference
 ======
+* E. Pavez. <br>[Laplacian constrained precision matrix estimation: existence and high dimensional consistency]() <br>2022 International Conference on Artificial Intelligence and Statistics (AISTATS). <br>[arxiv preprint](https://arxiv.org/abs/2106.08562)
 
 * E. Pavez, A.L. Souto, R.L. De Queiroz, A. Ortega. <br>[Multi-resolution intra-predictive coding of 3D point cloud attributes](https://doi.org/10.1109/ICIP42928.2021.9506641) <br>2021 IEEE International Conference on Image Processing (ICIP). <br>[arxiv preprint](https://arxiv.org/abs/2106.08562) [video presentation](https://www.youtube.com/watch?v=y53-J9QZvZY&ab_channel=epc_research)
 
