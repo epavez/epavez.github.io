@@ -20,6 +20,7 @@ My research  covers various aspects of  signal processing such as:
 {% capture news %}
 News 
 ===== 
+* 01/2022: [Graph Laplacian estimation paper](https://arxiv.org/abs/2111.00590) accepted at AISTATS 2022
 * 10/2021: ICIP 2021 video presentations on 3d point cloud compression available: [intra coding](https://www.youtube.com/watch?v=y53-J9QZvZY&ab_channel=epc_research), and [lidar](https://www.youtube.com/watch?v=zPrBIn2be1U&ab_channel=ShashankNelamangalaSridhara)
 * 06/2021: Two papers on 3D point cloud compression accepted at ICIP 2021
 * 06/2021: [Video presentation](https://www.youtube.com/watch?v=AqmjH1uK8U0&ab_channel=epc_research) of  paper "Spectral folding and two-channel filter banks on arbitrary graphs" is available 
