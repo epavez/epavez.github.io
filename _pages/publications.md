@@ -28,11 +28,11 @@ Conference
 
 * H. Hong,E. Pavez, A. Ortega, R. Watanabe, K. Nonaka <br>[Fractional motion estimation forpoint cloud compression]()<br > 2022 Data Compression Conference (DCC)
 
-* S. N. Sridhara,E. Pavez, R. Watanabe, K. Nonaka, A. Ortega <br>[Point cloud attribute compres-sion via chroma subsampling]() <br>2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 
+* S. N. Sridhara, E. Pavez, R. Watanabe, K. Nonaka, A. Ortega <br>[Point cloud attribute compres-sion via chroma subsampling]() <br>2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 
 
-* R. Watanabe, K. Nonaka, Haruhisa Kato,E. Pavez, T. Kobayashi, A. Ortega <br>[Point cloud de-noising uning normal vector based graph wavelet shrinkage]()<br> 2022 International Conference on Acoustics,Speech and Signal Processing (ICASSP) 
+* R. Watanabe, K. Nonaka, Haruhisa Kato, E. Pavez, T. Kobayashi, A. Ortega <br>[Point cloud de-noising uning normal vector based graph wavelet shrinkage]()<br> 2022 International Conference on Acoustics,Speech and Signal Processing (ICASSP) 
 
-* K. Nonaka, R. Watanabe, T. Kobayashi,E. Pavez, A. Ortega <br>[Graph-based point cloud de-noising using shape-aware consistency for free-viewpoint video]()<br> 2022 International Conference on Acous-tics, Speech and Signal Processing (ICASSP)
+* K. Nonaka, R. Watanabe, T. Kobayashi, E. Pavez, A. Ortega <br>[Graph-based point cloud de-noising using shape-aware consistency for free-viewpoint video]()<br> 2022 International Conference on Acous-tics, Speech and Signal Processing (ICASSP)
 
 * E. Pavez, A.L. Souto, R.L. De Queiroz, A. Ortega. <br>[Multi-resolution intra-predictive coding of 3D point cloud attributes](https://doi.org/10.1109/ICIP42928.2021.9506641) <br>2021 IEEE International Conference on Image Processing (ICIP). <br>[arxiv preprint](https://arxiv.org/abs/2106.08562) [video presentation](https://www.youtube.com/watch?v=y53-J9QZvZY&ab_channel=epc_research)
 
