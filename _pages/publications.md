@@ -24,19 +24,19 @@ Journal
 
 Conference
 ======
-* E. Pavez. <br>[Laplacian constrained precision matrix estimation: existence and high dimensional consistency]() <br> 2022 International Conference on Artificial Intelligence and Statistics (AISTATS). <br>[arxiv preprint](https://arxiv.org/abs/2111.00590)
+* E. Pavez. <br>[Laplacian constrained precision matrix estimation: existence and high dimensional consistency]() <br> 2022 International Conference on Artificial Intelligence and Statistics (AISTATS) <br>[arxiv preprint](https://arxiv.org/abs/2111.00590)
 
 * H. Hong,E. Pavez, A. Ortega, R. Watanabe, K. Nonaka <br>[Fractional motion estimation forpoint cloud compression]()<br > 2022 Data Compression Conference (DCC)
 
-* S. N. Sridhara, E. Pavez, R. Watanabe, K. Nonaka, A. Ortega <br>[Point cloud attribute compres-sion via chroma subsampling]() <br>2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 
+* S. N. Sridhara, E. Pavez, R. Watanabe, K. Nonaka, A. Ortega <br>[Point cloud attribute compres-sion via chroma subsampling]() <br> 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 
 
-* R. Watanabe, K. Nonaka, Haruhisa Kato, E. Pavez, T. Kobayashi, A. Ortega <br>[Point cloud de-noising uning normal vector based graph wavelet shrinkage]()<br> 2022 International Conference on Acoustics,Speech and Signal Processing (ICASSP) 
+* R. Watanabe, K. Nonaka, Haruhisa Kato, E. Pavez, T. Kobayashi, A. Ortega <br>[Point cloud de-noising uning normal vector based graph wavelet shrinkage]()<br> 2022 International Conference on Acoustics, Speech and Signal Processing (ICASSP) 
 
-* K. Nonaka, R. Watanabe, T. Kobayashi, E. Pavez, A. Ortega <br>[Graph-based point cloud de-noising using shape-aware consistency for free-viewpoint video]()<br> 2022 International Conference on Acous-tics, Speech and Signal Processing (ICASSP)
+* K. Nonaka, R. Watanabe, T. Kobayashi, E. Pavez, A. Ortega <br>[Graph-based point cloud de-noising using shape-aware consistency for free-viewpoint video]()<br> 2022 International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 
-* E. Pavez, A.L. Souto, R.L. De Queiroz, A. Ortega. <br>[Multi-resolution intra-predictive coding of 3D point cloud attributes](https://doi.org/10.1109/ICIP42928.2021.9506641) <br>2021 IEEE International Conference on Image Processing (ICIP). <br>[arxiv preprint](https://arxiv.org/abs/2106.08562) [video presentation](https://www.youtube.com/watch?v=y53-J9QZvZY&ab_channel=epc_research)
+* E. Pavez, A.L. Souto, R.L. De Queiroz, A. Ortega. <br>[Multi-resolution intra-predictive coding of 3D point cloud attributes](https://doi.org/10.1109/ICIP42928.2021.9506641) <br> 2021 IEEE International Conference on Image Processing (ICIP). <br>[arxiv preprint](https://arxiv.org/abs/2106.08562) [video presentation](https://www.youtube.com/watch?v=y53-J9QZvZY&ab_channel=epc_research)
 
-* S. N. Sridhara, E. Pavez, A. Ortega. <br>[Cylindrical Coordinates for Lidar Point Cloud Compression](https://doi.org/10.1109/ICIP42928.2021.9506448) <br>2021 IEEE International Conference on Image Processing (ICIP). <br>[arxiv preprint](https://arxiv.org/abs/2106.11237) [video presentation](https://www.youtube.com/watch?v=zPrBIn2be1U&ab_channel=ShashankNelamangalaSridhara)
+* S. N. Sridhara, E. Pavez, A. Ortega. <br>[Cylindrical Coordinates for Lidar Point Cloud Compression](https://doi.org/10.1109/ICIP42928.2021.9506448) <br> 2021 IEEE International Conference on Image Processing (ICIP). <br>[arxiv preprint](https://arxiv.org/abs/2106.11237) [video presentation](https://www.youtube.com/watch?v=zPrBIn2be1U&ab_channel=ShashankNelamangalaSridhara)
 
 * Pavez, Eduardo, Benjamin Girault, Antonio Ortega, Philip A. Chou. <br>[Spectral folding and two-channel filter-banks on arbitrary graphs](https://doi.org/10.1109/ICASSP39728.2021.9414066) <br>2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). <br>[arxiv preprint](https://arxiv.org/abs/2010.12604) [video presentation](https://www.youtube.com/watch?v=AqmjH1uK8U0&ab_channel=epc_research)
 
