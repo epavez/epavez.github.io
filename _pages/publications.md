@@ -26,7 +26,7 @@ Conference
 ======
 * E. Pavez. <br>[Laplacian constrained precision matrix estimation: existence and high dimensional consistency]() <br> 2022 International Conference on Artificial Intelligence and Statistics (AISTATS) <br>[arxiv preprint](https://arxiv.org/abs/2111.00590)
 
-* H. Hong,E. Pavez, A. Ortega, R. Watanabe, K. Nonaka <br>[Fractional motion estimation forpoint cloud compression]()<br > 2022 Data Compression Conference (DCC)
+* H. Hong,E. Pavez, A. Ortega, R. Watanabe, K. Nonaka <br>[Fractional motion estimation forpoint cloud compression]()<br> 2022 Data Compression Conference (DCC) <br>[arxiv preprint](https://arxiv.org/abs/2202.00172)
 
 * S. N. Sridhara, E. Pavez, R. Watanabe, K. Nonaka, A. Ortega <br>[Point cloud attribute compres-sion via chroma subsampling]() <br> 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 
 
