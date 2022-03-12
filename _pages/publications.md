@@ -8,6 +8,10 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 
 {% include base_path %}
 
+Submitted
+======
+* Pavez, Eduardo, Benjamin Girault, Antonio Ortega, Philip A. Chou. <br>[Two Channel Filter Banks on Arbitrary Graphs with Positive Semi Definite Variation Operators](), <br>[arxiv preprint](https://arxiv.org/abs/2203.02858), longer version of [2021 ICASSP paper](https://doi.org/10.1109/ICASSP39728.2021.9414066)
+
 Journal
 ======
 * Pavez, Eduardo, and   Antonio Ortega.<br>[Covariance Matrix Estimation with Non Uniform and Data Dependent Missing Observations](https://doi.org/10.1109/TIT.2020.3039118),  <br>IEEE Transactions on Information Theory, vol. 67, no. 2, pp. 1201-1215, Feb. 2021. <br>[arxiv preprint](https://arxiv.org/abs/1910.00667) 
