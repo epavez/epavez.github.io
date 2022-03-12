@@ -20,6 +20,8 @@ My research  covers various aspects of  signal processing such as:
 {% capture news %}
 News 
 ===== 
+* The journal extension of our [2021 ICASSP filterbank paper](https://doi.org/10.1109/ICASSP39728.2021.9414066) is now available [here](https://arxiv.org/abs/2203.02858)
+* Preprint on  [compression of user generated content](https://arxiv.org/abs/2203.03553)
 * 01/2022: [Graph Laplacian estimation paper](https://arxiv.org/abs/2111.00590) accepted at AISTATS 2022
 * 10/2021: ICIP 2021 video presentations on 3d point cloud compression available: [intra coding](https://www.youtube.com/watch?v=y53-J9QZvZY&ab_channel=epc_research), and [lidar](https://www.youtube.com/watch?v=zPrBIn2be1U&ab_channel=ShashankNelamangalaSridhara)
 * 06/2021: Two papers on 3D point cloud compression accepted at ICIP 2021
