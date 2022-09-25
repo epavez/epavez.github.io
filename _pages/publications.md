@@ -12,10 +12,11 @@ Submitted
 ======
 * Pavez, Eduardo, Benjamin Girault, Antonio Ortega, Philip A. Chou. <br>[Two Channel Filter Banks on Arbitrary Graphs with Positive Semi Definite Variation Operators](), <br>[arxiv preprint](https://arxiv.org/abs/2203.02858), longer version of [2021 ICASSP paper](https://doi.org/10.1109/ICASSP39728.2021.9414066)
 
-* Pavez, Eduardo,  Enrique Perez, Xin Xiong, Antonio Ortega, Balu Adsumilli. <br>[Compression of user generated content using denoised references]()<br> [arxiv preprint](https://arxiv.org/abs/2203.03553)
 
 Journal
 ======
+* Koyakumaru, Tatsuya,  Masahiro Yukawa, Eduardo Pavez, Antonio Ortega. <br>[Learning sparse graph with minimax concave penalty under Gaussian Markov random fields]()<br> IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences (2022)<br>[arxiv preprint](https://arxiv.org/abs/2109.08666)
+
 * Pavez, Eduardo, and   Antonio Ortega.<br>[Covariance Matrix Estimation with Non Uniform and Data Dependent Missing Observations](https://doi.org/10.1109/TIT.2020.3039118),  <br>IEEE Transactions on Information Theory, vol. 67, no. 2, pp. 1201-1215, Feb. 2021. <br>[arxiv preprint](https://arxiv.org/abs/1910.00667) 
 
 * Egilmez, Hilmi E., Eduardo Pavez, and Antonio Ortega.<br>[Graph learning from filtered signals: Graph system and diffusion kernel identification](https://doi.org/10.1109/TSIPN.2018.2872157)<br>IEEE Transactions on Signal and Information Processing over Networks 5.2 (2018): 360-374. <br>[arxiv preprint](https://arxiv.org/abs/1803.02553) [code](https://github.com/STAC-USC/Graph_Learning)
@@ -30,6 +31,8 @@ Journal
 
 Conference
 ======
+* Pavez, Eduardo,  Enrique Perez, Xin Xiong, Antonio Ortega, Balu Adsumilli. <br>[Compression of user generated content using denoised references]()<br> International Conference on Image Processing (ICIP) 2022 <br> [arxiv preprint](https://arxiv.org/abs/2203.03553)
+
 * E. Pavez. <br>[Laplacian constrained precision matrix estimation: existence and high dimensional consistency](https://proceedings.mlr.press/v151/pavez22a.html) <br> 2022 International Conference on Artificial Intelligence and Statistics (AISTATS) <br>[arxiv preprint](https://arxiv.org/abs/2111.00590)
 
 * H. Hong,E. Pavez, A. Ortega, R. Watanabe, K. Nonaka <br>[Fractional motion estimation for point cloud compression]()<br> 2022 Data Compression Conference (DCC) <br>[arxiv preprint](https://arxiv.org/abs/2202.00172)
