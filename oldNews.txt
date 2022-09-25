@@ -1,1 +1,10 @@
 
+03/2022: The journal extension of our 2021 ICASSP filterbank paper is now available on arxiv
+03/2022: Preprint on compression of user generated content
+01/2022: Graph Laplacian estimation paper accepted at AISTATS 2022
+10/2021: ICIP 2021 video presentations on 3D point cloud compression available: intra coding, and lidar
+06/2021: Two papers on 3D point cloud compression accepted at ICIP 2021
+06/2021: Video presentation of paper "Spectral folding and two-channel filter banks on arbitrary graphs" is available
+06/2021: Our papers on graph filter banks, image compression and graph learning will be presented at ICASSP 2021
+11/2020: Paper on covariance estimation accepted by IEEE Transactions on Information Theory preprint
+10/2020: Best paper award ICIP 2020, here are the paper, code and video presentation 
