@@ -31,6 +31,8 @@ Journal
 
 Conference
 ======
+* Haoran Hong, Eduardo Pavez, Antonio Ortega, Ryosuke Watanabe, Keisuke Nonaka. <br>[Motion estimation and filtered prediction for dynamic point cloud attribute compression]()<br> 2022 Picture Coding Symposium (PCS) <br>[arxiv preprint](https://arxiv.org/abs/2210.08262)
+
 * Pavez, Eduardo,  Enrique Perez, Xin Xiong, Antonio Ortega, Balu Adsumilli. <br>[Compression of user generated content using denoised references](https://doi.org/10.1109/ICIP46576.2022.9897437)<br> 2022 International Conference on Image Processing (ICIP) <br> [arxiv preprint](https://arxiv.org/abs/2203.03553) [video presentation](https://www.youtube.com/watch?v=cFpyaiWYpyI&t=673s)<br>**Best paper award second runner-up**
 
 * W. -Y. Lu, E. Pavez, A. Ortega, D. Mukherjee, O. Guleryuz and K. -S. Lu, <br>[Intra Prediction of Regular and Near-Regular Textures Via Graph-Based Inpainting](https://doi.org/10.1109/ICIP46576.2022.9897909) <br> 2022 IEEE International Conference on Image Processing (ICIP)
