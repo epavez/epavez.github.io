@@ -31,11 +31,11 @@ Journal
 
 Conference
 ======
-* Pavez, Eduardo,  Enrique Perez, Xin Xiong, Antonio Ortega, Balu Adsumilli. <br>[Compression of user generated content using denoised references]()<br> International Conference on Image Processing (ICIP) 2022 <br> [arxiv preprint](https://arxiv.org/abs/2203.03553)
+* Pavez, Eduardo,  Enrique Perez, Xin Xiong, Antonio Ortega, Balu Adsumilli. <br>[Compression of user generated content using denoised references](https://doi.org/10.1109/ICIP46576.2022.9897437)<br> International Conference on Image Processing (ICIP) 2022 <br> [arxiv preprint](https://arxiv.org/abs/2203.03553) [video presentation](https://www.youtube.com/watch?v=cFpyaiWYpyI&t=673s)<br>**Best paper award second runner-up**
 
 * E. Pavez. <br>[Laplacian constrained precision matrix estimation: existence and high dimensional consistency](https://proceedings.mlr.press/v151/pavez22a.html) <br> 2022 International Conference on Artificial Intelligence and Statistics (AISTATS) <br>[arxiv preprint](https://arxiv.org/abs/2111.00590)
 
-* H. Hong,E. Pavez, A. Ortega, R. Watanabe, K. Nonaka <br>[Fractional motion estimation for point cloud compression]()<br> 2022 Data Compression Conference (DCC) <br>[arxiv preprint](https://arxiv.org/abs/2202.00172)
+* H. Hong,E. Pavez, A. Ortega, R. Watanabe, K. Nonaka <br>[Fractional motion estimation for point cloud compression](https://doi.org/10.1109/DCC52660.2022.00045)<br> 2022 Data Compression Conference (DCC) <br>[arxiv preprint](https://arxiv.org/abs/2202.00172)
 
 * S. N. Sridhara, E. Pavez, R. Watanabe, K. Nonaka, A. Ortega <br>[Point cloud attribute compression via chroma subsampling](https://ieeexplore.ieee.org/document/9746352) <br> 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 
 
