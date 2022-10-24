@@ -28,7 +28,7 @@ Work experience
 
 Awards
 ======
-* Best paper award 2nd runner-up, IEEE International Conference on Image Processing (ICIP) 2022
+* Best Paper Award 2nd runner-up, IEEE International Conference on Image Processing (ICIP) 2022
 
 * Best Paper Award, IEEE International Conference on Image Processing (ICIP) 2020
 
