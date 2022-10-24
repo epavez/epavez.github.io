@@ -20,7 +20,9 @@ My research  covers various aspects of  signal processing such as:
 {% capture news %}
 News 
 ===== 
-* 10/2022: Our papers on UGC video compression and intra-prediction will be presented at ICIP 2022
+* 10/2022: [UGC video compression paper](https://arxiv.org/abs/2203.03553) received [Best paper award 2nd runner-up](https://2022.ieeeicip.org/best-paper-awards/) at ICIP 2022
+* 10/2022: Our paper on [motion estimation and in-loop filtering for 3D point clouds](https://arxiv.org/abs/2210.08262) accepted at PCS 2022
+* 10/2022: Our papers on [UGC video compression](https://arxiv.org/abs/2203.03553) and [intra-prediction](https://ieeexplore.ieee.org/document/9897909) will be presented at ICIP 2022
 * 03/2022: The journal extension of our [2021 ICASSP filterbank paper](https://doi.org/10.1109/ICASSP39728.2021.9414066) is now available on [arxiv](https://arxiv.org/abs/2203.02858)
 * 03/2022: Preprint on  [compression of user generated content](https://arxiv.org/abs/2203.03553)
 * 01/2022: [Graph Laplacian estimation paper](https://arxiv.org/abs/2111.00590) accepted at AISTATS 2022
