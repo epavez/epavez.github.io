@@ -15,8 +15,8 @@ Submitted
 
 Journal
 ======
-* Pavez, Eduardo, Benjamin Girault, Antonio Ortega, Philip A. Chou. <br>[Two Channel Filter Banks on Arbitrary Graphs with Positive Semi Definite Variation Operators](https://doi.org/10.1109/TSP.2023.3257983), <br>[arxiv preprint](https://arxiv.org/abs/2203.02858), longer version of [2021 ICASSP paper](https://doi.org/10.1109/ICASSP39728.2021.9414066)
-* 
+* Pavez, Eduardo, Benjamin Girault, Antonio Ortega, Philip A. Chou. <br>[Two Channel Filter Banks on Arbitrary Graphs with Positive Semi Definite Variation Operators](https://doi.org/10.1109/TSP.2023.3257983), <br>IEEE Transactions on Signal Processing, 2023 <br>[arxiv preprint](https://arxiv.org/abs/2203.02858), longer version of [2021 ICASSP paper](https://doi.org/10.1109/ICASSP39728.2021.9414066), [code](https://github.com/STAC-USC/graph_filterbank_folding)
+
 * Koyakumaru, Tatsuya,  Masahiro Yukawa, Eduardo Pavez, Antonio Ortega. <br>[Learning sparse graph with minimax concave penalty under Gaussian Markov random fields]()<br> IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences (2022)<br>[arxiv preprint](https://arxiv.org/abs/2109.08666)
 
 * Pavez, Eduardo, and   Antonio Ortega.<br>[Covariance Matrix Estimation with Non Uniform and Data Dependent Missing Observations](https://doi.org/10.1109/TIT.2020.3039118),  <br>IEEE Transactions on Information Theory, vol. 67, no. 2, pp. 1201-1215, Feb. 2021. <br>[arxiv preprint](https://arxiv.org/abs/1910.00667) 
