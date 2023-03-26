@@ -33,7 +33,7 @@ Journal
 
 Conference
 ======
-* X. Xiong, E. Pavez, A.  Ortega, B. Adsumilli<br>[Rate-distortion optimization with alternative references for UGC video compression()<br>2023 International Conference on Acoustics, Speech and Signal Processing (ICASSP)<br>[arxiv preprint](https://arxiv.org/abs/2303.06254)
+* X. Xiong, E. Pavez, A.  Ortega, B. Adsumilli<br>[Rate-distortion optimization with alternative references for UGC video compression]()<br>2023 International Conference on Acoustics, Speech and Signal Processing (ICASSP)<br>[arxiv preprint](https://arxiv.org/abs/2303.06254)
 
 * R. Watanabe, K. Nonaka, E. Pavez, T. Kobayashi, A. Ortega<br>[Graph-based point cloud color denoising with 3-dimensional patch-based similarity]()<br>2023 International Conference on Acoustics, Speech and Signal Processing (ICASSP)  
 
