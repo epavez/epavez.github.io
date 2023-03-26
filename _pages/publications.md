@@ -33,6 +33,10 @@ Journal
 
 Conference
 ======
+* X. Xiong, E. Pavez, A.  Ortega, B. Adsumilli<br>[Rate-distortion optimization with alternative references for UGC video compression()<br>2023 International Conference on Acoustics, Speech and Signal Processing (ICASSP)<br>[arxiv preprint](https://arxiv.org/abs/2303.06254)
+
+* R. Watanabe, K. Nonaka, E. Pavez, T. Kobayashi, A. Ortega<br>[Graph-based point cloud color denoising with 3-dimensional patch-based similarity]()<br>2023 International Conference on Acoustics, Speech and Signal Processing (ICASSP)  
+
 * R. Watanabe, K. Nonaka, E. Pavez, T. Kobayashi, A. Ortega <br>[Graph wavelet-based point cloud geometry denoising with surface-consistent non-negative kernel regression]()<br> 2023 International Conference on Acoustics, Speech and Signal Processing (ICASSP) 
 
 * Haoran Hong, Eduardo Pavez, Antonio Ortega, Ryosuke Watanabe, Keisuke Nonaka. <br>[Motion estimation and filtered prediction for dynamic point cloud attribute compression](https://doi.org/10.1109/PCS56426.2022.10018071)<br> 2022 Picture Coding Symposium (PCS) <br>[arxiv preprint](https://arxiv.org/abs/2210.08262)
