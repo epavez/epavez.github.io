@@ -20,7 +20,7 @@ My research  covers various aspects of  signal processing such as:
 {% capture news %}
 News 
 ===== 
-* 03/2023: Our paper on filter banks on arbitrary graphs was accepted to IEEE TSP, here is the [preprint](https://arxiv.org/abs/2203.02858) and [code](https://github.com/STAC-USC/graph_filterbank_folding)
+* 03/2023: Our paper on filter banks on arbitrary graphs was accepted to [IEEE TSP](https://doi.org/10.1109/TSP.2023.3257983) , here is the [preprint](https://arxiv.org/abs/2203.02858) and [code](https://github.com/STAC-USC/graph_filterbank_folding)
 * 10/2022: Our work on UGC video compression received [Best paper award 2nd runner-up](https://2022.ieeeicip.org/best-paper-awards/) at ICIP 2022, here is the [paper](https://arxiv.org/abs/2203.03553) and [video presentation](https://www.youtube.com/watch?v=cFpyaiWYpyI&t=631s)
 * 10/2022: Our paper on [motion estimation and in-loop filtering for 3D point clouds](https://arxiv.org/abs/2210.08262) accepted at PCS 2022
 * 10/2022: Our papers on [UGC video compression](https://arxiv.org/abs/2203.03553) and [intra-prediction](https://ieeexplore.ieee.org/document/9897909) will be presented at ICIP 2022
