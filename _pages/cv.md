@@ -18,6 +18,7 @@ Education
 Work experience
 ======
 * 2024 - present: Senior Research Associate
+  * University of Southern California
 * 2019 - 2024: Postdoctoral Research Associate 
   * University of Southern California
   
