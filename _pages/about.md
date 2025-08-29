@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the University of Southern California working with [Prof. Antonio Ortega](http://biron.usc.edu/wiki/index.php/Antonio_Ortega). 
+I am a research associate  at the University of Southern California working with [Prof. Antonio Ortega](http://biron.usc.edu/wiki/index.php/Antonio_Ortega). 
 I am particularly interested in developing scalable graph signal processing algorithms by leveraging tools from graph theory, optimization and statistics.
 My research  covers various aspects of  signal processing such as:
 
@@ -19,7 +19,9 @@ My research  covers various aspects of  signal processing such as:
 * Covariance estimation
 {% capture news %}
 News 
-===== 
+=====
+* 2024: Our paper with KDDI on 3D point cloud quality assesment using graph wavelets awarded best paper at ICIP 2024 
+* 2024: Our work on video coding for machines received Best paper award at IEEE MMSP 2024
 * 03/2023: Our paper on filter banks on arbitrary graphs was accepted to [IEEE TSP](https://doi.org/10.1109/TSP.2023.3257983) , here is the [preprint](https://arxiv.org/abs/2203.02858) and [code](https://github.com/STAC-USC/graph_filterbank_folding)
 * 10/2022: Our work on UGC video compression received [Best paper award 2nd runner-up](https://2022.ieeeicip.org/best-paper-awards/) at ICIP 2022, here is the [paper](https://arxiv.org/abs/2203.03553) and [video presentation](https://www.youtube.com/watch?v=cFpyaiWYpyI&t=631s)
 * 10/2022: Our paper on [motion estimation and in-loop filtering for 3D point clouds](https://arxiv.org/abs/2210.08262) accepted at PCS 2022
