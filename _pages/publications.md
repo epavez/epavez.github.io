@@ -36,17 +36,17 @@ Journal
 Conference
 ======
 
-* Mendui\~na, S. F., Pavez, E.,  Ortega, A.  ``Fast DCT+: A Family of Fast Transforms Based on Rank-One Updates of the Path Graph''. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025
+* Menduina, S. F., Pavez, E.,  Ortega, A. <br>[Fast DCT+: A Family of Fast Transforms Based on Rank-One Updates of the Path Graph]()<br> 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 
 
-* Pakiyarajah, D., Pavez, E.,  Ortega, A.  ``Graph-based Signal Sampling with Adaptive Subspace Reconstruction for Spatially-irregular Sensor Data''. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025
+* Pakiyarajah, D., Pavez, E.,  Ortega, A. <br>[Graph-based Signal Sampling with Adaptive Subspace Reconstruction for Spatially-irregular Sensor Data]()<br> 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 
-* Watanabe, R., Nonaka, K., Pavez, E., Kobayashi, T.,  Ortega, A.  ``No-Reference Point Cloud Quality Assessment Based on Graph Signal Variation''. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025
+* Watanabe, R., Nonaka, K., Pavez, E., Kobayashi, T.,  Ortega, A.  <br>[No-Reference Point Cloud Quality Assessment Based on Graph Signal Variation]()<br> 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 
-* S.N. Sridhara, E. Pavez, A. Ortega, ``Joint graph learning and sampling set selection from data'', Asilomar Conference on Signals, Systems, and Computers,  2024. (Invited paper)
+* S.N. Sridhara, E. Pavez, A. Ortega <br>[Joint graph learning and sampling set selection from data]()<br> 2024 Asilomar Conference on Signals, Systems, and Computers (Invited paper)
 
-* V. Faraggi,  J. Silva,  C. Ram\'irez,  E. Pavez. ``Characterizing Probabilistic Structure in Learning Using Information Sufficiency'' IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2024
+* V. Faraggi,  J. Silva,  C. Ramirez,  E. Pavez. <br>[Characterizing Probabilistic Structure in Learning Using Information Sufficiency]()<br> 2024 IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 
 
-* Lu, W-Y., E. Pavez, A. Ortega, X. Zhao, and S. Liu. ``Online-learned Graph Transforms for Adaptive Blocksize Intra-Predictive Coding" SPIE Optics + Photonics (2024)
+* Lu, W-Y., E. Pavez, A. Ortega, X. Zhao, and S. Liu. <br>[Online-learned Graph Transforms for Adaptive Blocksize Intra-Predictive Coding()<br> 2024 SPIE Optics + Photonics 
 
 * S. Fernandez, E. Pavez, A. Ortega. <br>[Feature-Preserving Rate-Distortion Optimization in Image Coding for Machines]()<br> 2024 IEEE International Workshop on Multimedia Signal Processing (MMSP)
 <br>**Best paper award**
