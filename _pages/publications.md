@@ -46,7 +46,7 @@ Conference
 
 * V. Faraggi,  J. Silva,  C. Ramirez,  E. Pavez. <br>[Characterizing Probabilistic Structure in Learning Using Information Sufficiency]()<br> 2024 IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 
 
-* Lu, W-Y., E. Pavez, A. Ortega, X. Zhao, and S. Liu. <br>[Online-learned Graph Transforms for Adaptive Blocksize Intra-Predictive Coding()<br> 2024 SPIE Optics + Photonics 
+* Lu, W-Y., E. Pavez, A. Ortega, X. Zhao, and S. Liu. <br>[Online-learned Graph Transforms for Adaptive Blocksize Intra-Predictive Coding]()<br> 2024 SPIE Optics + Photonics 
 
 * S. Fernandez, E. Pavez, A. Ortega. <br>[Feature-Preserving Rate-Distortion Optimization in Image Coding for Machines]()<br> 2024 IEEE International Workshop on Multimedia Signal Processing (MMSP)
 <br>**Best paper award**
