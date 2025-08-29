@@ -35,6 +35,39 @@ Journal
 
 Conference
 ======
+
+* Mendui\~na, S. F., Pavez, E.,  Ortega, A.  ``Fast DCT+: A Family of Fast Transforms Based on Rank-One Updates of the Path Graph''. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025
+
+* Pakiyarajah, D., Pavez, E.,  Ortega, A.  ``Graph-based Signal Sampling with Adaptive Subspace Reconstruction for Spatially-irregular Sensor Data''. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025
+
+* Watanabe, R., Nonaka, K., Pavez, E., Kobayashi, T.,  Ortega, A.  ``No-Reference Point Cloud Quality Assessment Based on Graph Signal Variation''. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025
+
+* S.N. Sridhara, E. Pavez, A. Ortega, ``Joint graph learning and sampling set selection from data'', Asilomar Conference on Signals, Systems, and Computers,  2024. (Invited paper)
+
+* V. Faraggi,  J. Silva,  C. Ram\'irez,  E. Pavez. ``Characterizing Probabilistic Structure in Learning Using Information Sufficiency'' IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2024
+
+* Lu, W-Y., E. Pavez, A. Ortega, X. Zhao, and S. Liu. ``Online-learned Graph Transforms for Adaptive Blocksize Intra-Predictive Coding" SPIE Optics + Photonics (2024)
+
+* S. Fernandez, { E. Pavez}, A. Ortega. ``Feature-Preserving Rate-Distortion Optimization in Image Coding for Machines'' IEEE International Workshop on Multimedia Signal Processing (MMSP) 2024.
+\textbf{Best paper award}
+
+* E. Vasudevan, S.N. Sridhara,  E. Pavez, A. Ortega,  S. Kalluri, R. Singh. ``Color-Guided Flying Pixel Correction in Depth Images'' IEEE International Workshop on Multimedia Signal Processing (MMSP) 2024
+
+* Watanabe, R,  K. Nonaka, E. Pavez, T. Kobayashi, A. Ortega. ``Full-reference Point Cloud Quality assessment Using Spectral Graph Wavelets''  International Conference on Image Processing (ICIP) 2024.
+\textbf{Best paper award}
+
+* Lu, W-Y., E. Pavez, A. Ortega, X. Zhao, and S. Liu. "Adaptive Online Learning of Separable Path Graph Transforms for Intra-prediction." Picture Coding Symposium (PCS) 2024.
+
+* D. Pakiyarajah, E. Pavez, A. Ortega, ``Irregularity-aware band-limited approximation for graph signal interpolation'',  International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
+
+* R. Watanabe, K. Nonaka, E. Pavez, T. Kobayashi, A. Ortega, ``Fast graph-based de-noising for point cloud color information'', International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
+
+* R. Watanabe, S. N. Sridhara, H. Hong, E. Pavez,  A. Ortega ``ICIP 2023 Challenge: Full reference and non-reference point cloud quality assessment methods with support vector regression'', International Conference on Image Processing (ICIP) 2023
+
+* S. Fernandez, { E. Pavez}, A. Ortega <br>[Image Coding via Perceptually Inspired Graph Learning]()<br> 2023International Conference on Image Processing (ICIP) 
+
+* B. Girault, E. Pavez, A. Ortega <br>[Joint Graph and Vertex Importance Learning]()<br> 2023 European Signal Processing Conference (EUSIPCO)
+
 * X. Xiong, E. Pavez, A.  Ortega, B. Adsumilli<br>[Rate-distortion optimization with alternative references for UGC video compression]()<br>2023 International Conference on Acoustics, Speech and Signal Processing (ICASSP)<br>[arxiv preprint](https://arxiv.org/abs/2303.06254)
 
 * R. Watanabe, K. Nonaka, E. Pavez, T. Kobayashi, A. Ortega<br>[Graph-based point cloud color denoising with 3-dimensional patch-based similarity]()<br>2023 International Conference on Acoustics, Speech and Signal Processing (ICASSP)  
