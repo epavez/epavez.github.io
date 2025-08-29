@@ -30,6 +30,10 @@ Work experience
 
 Awards
 ======
+* Best Paper Award, IEEE International Workshop on Multimedia Signal Processing (MMSP) 2024
+
+* Best Paper Award, IEEE International Conference on Image Processing (ICIP) 2024
+
 * Best Paper Award 2nd runner-up, IEEE International Conference on Image Processing (ICIP) 2022
 
 * Best Paper Award, IEEE International Conference on Image Processing (ICIP) 2020
