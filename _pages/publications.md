@@ -58,15 +58,15 @@ Conference
 
 * Lu, W-Y., E. Pavez, A. Ortega, X. Zhao, and S. Liu. "Adaptive Online Learning of Separable Path Graph Transforms for Intra-prediction." Picture Coding Symposium (PCS) 2024.
 
-* D. Pakiyarajah, E. Pavez, A. Ortega, ``Irregularity-aware band-limited approximation for graph signal interpolation'',  International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
+* D. Pakiyarajah, E. Pavez, A. Ortega, <br>[Irregularity-aware band-limited approximation for graph signal interpolation]()<br> 2024  International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 
-* R. Watanabe, K. Nonaka, E. Pavez, T. Kobayashi, A. Ortega, ``Fast graph-based de-noising for point cloud color information'', International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024
+* R. Watanabe, K. Nonaka, E. Pavez, T. Kobayashi, A. Ortega, <br>[Fast graph-based de-noising for point cloud color information]()<br> 2024 International Conference on Acoustics, Speech and Signal Processing (ICASSP) 
 
-* R. Watanabe, S. N. Sridhara, H. Hong, E. Pavez,  A. Ortega ``ICIP 2023 Challenge: Full reference and non-reference point cloud quality assessment methods with support vector regression'', International Conference on Image Processing (ICIP) 2023
+* R. Watanabe, S. N. Sridhara, H. Hong, E. Pavez,  A. Ortega <br>[ICIP 2023 Challenge: Full reference and non-reference point cloud quality assessment methods with support vector regression]()<br>, 2023 International Conference on Image Processing (ICIP) 
 
-* S. Fernandez, { E. Pavez}, A. Ortega <br>[Image Coding via Perceptually Inspired Graph Learning]()<br> 2023International Conference on Image Processing (ICIP) 
+* S. Fernandez, E. Pavez, A. Ortega <br>[Image Coding via Perceptually Inspired Graph Learning]()<br> 2023 International Conference on Image Processing (ICIP) [arxiv preprint](https://arxiv.org/abs/2303.01674)
 
-* B. Girault, E. Pavez, A. Ortega <br>[Joint Graph and Vertex Importance Learning]()<br> 2023 European Signal Processing Conference (EUSIPCO)
+* B. Girault, E. Pavez, A. Ortega <br>[Joint Graph and Vertex Importance Learning]()<br> 2023 European Signal Processing Conference (EUSIPCO) [arxiv preprint](https://arxiv.org/abs/2303.08552)
 
 * X. Xiong, E. Pavez, A.  Ortega, B. Adsumilli<br>[Rate-distortion optimization with alternative references for UGC video compression]()<br>2023 International Conference on Acoustics, Speech and Signal Processing (ICASSP)<br>[arxiv preprint](https://arxiv.org/abs/2303.06254)
 
