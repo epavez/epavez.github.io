@@ -10,10 +10,7 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 
 Submitted
 ======
-* B. Girault, E. Pavez, A. Ortega<br>[Joint Graph and Vertex Importance Learning]()<br>[arxiv preprint](https://arxiv.org/abs/2303.08552)
-
-* S. Fernandez, E. Pavez, A. Ortega<br>[Image Coding via Perceptually Inspired Graph Learning]()<br>[arxiv preprint](https://arxiv.org/abs/2303.01674)
-
+* 
 
 Journal
 ======
