@@ -17,6 +17,9 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 - S. N. Sridhara, E. Pavez, A. Jayawant, A. Ortega, R. Watanabe, K. Nonaka. Graph-based Scalable Sampling of 3D Point Cloud Attributes. *arXiv*.  
   [preprint](https://arxiv.org/abs/2410.01027)
 
+- X. Xiong, S. Fernández-Menduina, E. Pavez, A. Ortega, N. Birkbeck, B. Adsumilli. Avoiding Quality Saturation in UGC Compression Using Denoised References. *arXiv*.  
+  [preprint](https://arxiv.org/abs/2511.16876)
+
 ---
 
 ## 2025
