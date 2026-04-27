@@ -26,6 +26,13 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 
 - R. Watanabe, K. Nonaka, E. Pavez, T. Kobayashi, A. Ortega. No-Reference Point Cloud Quality Assessment Based on Graph Signal Variation. *IEEE ICASSP 2025*
 
+- C. Wang, S. N. Sridhara, E. Pavez, A. Ortega, C. Chang. Adaptive Voxelization for Transform Coding of 3D Gaussian Splatting Data. *IEEE ICIP 2025*
+
+- S. Fernández-Menduina, X. Xiong, E. Pavez, A. Ortega, N. Birkbeck, B. Adsumilli. Rate-Distortion Optimization with Non-Reference Metrics for UGC Compression. *IEEE ICIP 2025*
+
+- D. Pakiyarajah, E. Pavez, A. Ortega, D. Mukherjee, O. Guleryuz, W.-Y. Lu, K. K. Sivakumar. Joint Optimization of Primary and Secondary Transforms Using Rate-Distortion Optimized Transform Design. *IEEE ICIP 2025*  
+  **Spotlight Paper**
+
 ---
 
 ## 2024
