@@ -8,15 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a research associate  at the University of Southern California working with [Prof. Antonio Ortega](http://biron.usc.edu/wiki/index.php/Antonio_Ortega). 
-I am particularly interested in developing scalable graph signal processing algorithms by leveraging tools from graph theory, optimization and statistics.
-My research  covers various aspects of  signal processing such as:
+I am a research associate  at the University of Southern California working in  graph signal processing, 3D Gaussian splats, point clouds,  and video compression.
 
-* Graph learning
-* Multiresolutions on graphs
-* 3D point clouds
-* Multimedia compression
-* Covariance estimation
 {% capture news %}
 News 
 =====
