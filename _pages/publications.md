@@ -49,31 +49,15 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 ## 2025 
 
 ### Journals
-* Silva, Jorge F., Victor Faraggi, Camilo Ramirez, Alvaro Egaña, Eduardo Pavez.<br>[Understanding Encoder--Decoder Structures in Machine Learning Using Information Measures]()<br>Signal Processing, 2025
-
-* Watanabe, R., S. N. Sridhara, H. Hong, E. Pavez, K. Nonaka, T. Kobayashi, A. Ortega.<br>[Full-reference Point Cloud Quality Assessment Using Support Vector Regression]()<br>Signal Processing: Image Communication, 2025
-
-### Conferences
-* Menduina, S. F., Pavez, E., Ortega, A.<br>[Fast DCT+: A Family of Fast Transforms Based on Rank-One Updates of the Path Graph]()<br>2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
-
-* Pakiyarajah, D., Pavez, E., Ortega, A.<br>[Graph-based Signal Sampling with Adaptive Subspace Reconstruction for Spatially-irregular Sensor Data]()<br>2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
-
-* Watanabe, R., Nonaka, K., Pavez, E., Kobayashi, T., Ortega, A.<br>[No-Reference Point Cloud Quality Assessment Based on Graph Signal Variation]()<br>2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
-
-* Fernandez-Menduiña, Samuel, Eduardo Pavez, Antonio Ortega, Tsung-Wei Huang, Thuong Nguyen Canh, Guan-Ming Su, Peng Yin.<br>[INT-DTT+: Low-Complexity Data-Dependent Transforms for Video Coding]()<br>2025 Picture Coding Symposium (PCS)
-
----
-
-## 2025
-
-### Journals
 - S. Fernández-Menduina, E. Pavez, A. Ortega. Image Coding for Machines via Feature-Preserving Rate-Distortion Optimization. *IEEE Transactions on Multimedia, 2025*
 
 - J. F. Silva, V. Faraggi, C. Ramírez, A. Egaña, E. Pavez. Understanding Encoder–Decoder Structures in Machine Learning Using Information Measures. *Signal Processing, 2025*
 
+- Watanabe, R., S. N. Sridhara, H. Hong, E. Pavez, K. Nonaka, T. Kobayashi, A. Ortega. Full-reference Point Cloud Quality Assessment Using Support Vector Regression *Signal Processing: Image Communication, 2025*
+
 ### Conferences
 - S. Fernández-Menduina, E. Pavez, A. Ortega. INT-DTT+: Low-Complexity Data-Dependent Transforms for Video Coding. *IEEE PCS 2025*  
-  **Best Paper Award – 2nd place**
+  **Best Paper Award – 3rd place**
 
 - C. Wang, S. N. Sridhara, E. Pavez, A. Ortega, C. Chang. Adaptive Voxelization for Transform Coding of 3D Gaussian Splatting Data. *IEEE ICIP 2025*
 
@@ -87,7 +71,7 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 - D. Pakiyarajah, E. Pavez, A. Ortega. Graph-Based Signal Sampling with Adaptive Subspace Reconstruction. *IEEE ICASSP 2025*
 
 - R. Watanabe, K. Nonaka, E. Pavez, T. Kobayashi, A. Ortega. No-Reference Point Cloud Quality Assessment Based on Graph Signal Variation. *IEEE ICASSP 2025*
-
+  
 ---
 
 ## 2024
