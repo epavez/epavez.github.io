@@ -8,17 +8,23 @@ author_profile: true
 You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=O-I1ZnIAAAAJ&hl=en) and [arXiv](http://arxiv.org/a/pavez_e_1)
 
 {% include base_path %}
+Preprints
+======
 
+* Ghosh, R., H. Wang, H. Hong, E. Pavez, A. Chaudhuri, W. Pang, H. V. Madhyastha, A. Ortega, R. Govindan.GS-NFS: Bandwidth-adaptive Streaming of Dynamic Gaussian Splats and Point Clouds. *arXiv* [preprint](https://arxiv.org/abs/2606.05650)
+
+* Hong, H., E. Pavez, A. Ortega, R. Watanabe, K. Nonaka. Motion Estimation Techniques for Volumetric Video Attribute Compression. *arXiv* [preprint](https://arxiv.org/abs/2607.03576)
+
+*  S. N. Sridhara, E. Pavez, A. Jayawant, A. Ortega, R. Watanabe, K. Nonaka. Graph-based Scalable Sampling of 3D Point Cloud Attributes. *arXiv*.  
+  [preprint](https://arxiv.org/abs/2410.01027)
+
+* X. Xiong, S. Fernández-Menduina, E. Pavez, A. Ortega, N. Birkbeck, B. Adsumilli. Avoiding Quality Saturation in UGC Compression Using Denoised References. *arXiv*.  
+  [preprint](https://arxiv.org/abs/2511.16876)
+  
 ## 2026
 - S. Fernández-Menduina, H. Choi, F. Racapé, E. Pavez, A. Ortega. Wrapper-Aware Rate-Distortion Optimization in Feature Coding for Machines. *IEEE ICASSP 2026*
 
 - S. N. Sridhara, B. Kathariya, F. Pu, P. Yin, E. Pavez, A. Ortega. Region-Adaptive Learned Hierarchical Encoding for 3D Gaussian Splatting Data. *DCC 2026*
-
-- S. N. Sridhara, E. Pavez, A. Jayawant, A. Ortega, R. Watanabe, K. Nonaka. Graph-based Scalable Sampling of 3D Point Cloud Attributes. *arXiv*.  
-  [preprint](https://arxiv.org/abs/2410.01027)
-
-- X. Xiong, S. Fernández-Menduina, E. Pavez, A. Ortega, N. Birkbeck, B. Adsumilli. Avoiding Quality Saturation in UGC Compression Using Denoised References. *arXiv*.  
-  [preprint](https://arxiv.org/abs/2511.16876)
 
 ---
 
