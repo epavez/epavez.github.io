@@ -20,11 +20,44 @@ Preprints
 
 * X. Xiong, S. Fernández-Menduina, E. Pavez, A. Ortega, N. Birkbeck, B. Adsumilli. Avoiding Quality Saturation in UGC Compression Using Denoised References. *arXiv*.  
   [preprint](https://arxiv.org/abs/2511.16876)
-  
-## 2026
-- S. Fernández-Menduina, H. Choi, F. Racapé, E. Pavez, A. Ortega. Wrapper-Aware Rate-Distortion Optimization in Feature Coding for Machines. *IEEE ICASSP 2026*
 
-- S. N. Sridhara, B. Kathariya, F. Pu, P. Yin, E. Pavez, A. Ortega. Region-Adaptive Learned Hierarchical Encoding for 3D Gaussian Splatting Data. *DCC 2026*
+---
+### 2026 
+
+### Journals
+* Fernandez-Menduiña, Samuel, Eduardo Pavez, Antonio Ortega.<br>[Image Coding for Machines via Feature-Preserving Rate-Distortion Optimization]()<br>IEEE Transactions on Multimedia, 2026
+
+### Conferences
+* Fernandez-Menduiña, Samuel, Hyomin Choi, Fabien Racapé, Eduardo Pavez, Antonio Ortega.<br>[Wrapper-Aware Rate-Distortion Optimization in Feature Coding for Machines]()<br>2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+
+* Sridhara, S. N., B. Kathariya, F. Pu, P. Yin, Eduardo Pavez, Antonio Ortega.<br>[Region-Adaptive Learned Hierarchical Encoding for 3D Gaussian Splatting Data](https://doi.org/10.1109/DCC62444.2026.00044)<br>2026 Data Compression Conference (DCC)
+
+* Fernandez, Samuel, Eduardo Pavez, Antonio Ortega.<br>[L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations]()<br>2026 International Conference on Machine Learning (ICML)
+
+* Xiong, Xin, Samuel Fernandez-Menduiña, Eduardo Pavez, Antonio Ortega, Neil Birkbeck, Balu Adsumilli.<br>[Rate-Distortion Optimization for Ensembles of Non-Reference Metrics]()<br>2026 IEEE International Conference on Image Processing (ICIP)
+
+* Pakiyarajah, Darukeesan, Samuel Fernandez-Menduiña, Eduardo Pavez, Antonio Ortega, Debargha Mukherjee.<br>[FaSST: Fast Sparsifying Secondary Transform]()<br>2026 IEEE International Conference on Image Processing (ICIP)
+
+* Lu, Wen-Yang, Eduardo Pavez, Antonio Ortega, Roman Chernyak, Shan Liu.<br>[Reduced-complexity Adaptive Loop Filtering via Input-dependent Graph Filters]()<br>2026 IEEE International Conference on Image Processing (ICIP)
+
+---
+
+### 2025 
+
+### Journals
+
+* Silva, Jorge F., Victor Faraggi, Camilo Ramirez, Alvaro Egaña, Eduardo Pavez.<br>[Understanding Encoder--Decoder Structures in Machine Learning Using Information Measures]()<br>Signal Processing, 2025
+
+* Watanabe, R., S. N. Sridhara, H. Hong, E. Pavez, K. Nonaka, T. Kobayashi, A. Ortega.<br>[Full-reference Point Cloud Quality Assessment Using Support Vector Regression]()<br>Signal Processing: Image Communication, 2025
+
+### Conferences
+* Menduina, S. F., Pavez, E., Ortega, A.<br>[Fast DCT+: A Family of Fast Transforms Based on Rank-One Updates of the Path Graph]()<br>2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+
+* Pakiyarajah, D., Pavez, E., Ortega, A.<br>[Graph-based Signal Sampling with Adaptive Subspace Reconstruction for Spatially-irregular Sensor Data]()<br>2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+
+* Watanabe, R., Nonaka, K., Pavez, E., Kobayashi, T., Ortega, A.<br>[No-Reference Point Cloud Quality Assessment Based on Graph Signal Variation]()<br>2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+
+* Fernandez-Menduiña, Samuel, Eduardo Pavez, Antonio Ortega, Tsung-Wei Huang, Thuong Nguyen Canh, Guan-Ming Su, Peng Yin.<br>[INT-DTT+: Low-Complexity Data-Dependent Transforms for Video Coding]()<br>2025 Picture Coding Symposium (PCS)
 
 ---
 
