@@ -29,20 +29,23 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 ## 2026 
 
 ### Journals
-* Fernandez-Menduiña, Samuel, Eduardo Pavez, Antonio Ortega.<br>[Image Coding for Machines via Feature-Preserving Rate-Distortion Optimization]()<br>IEEE Transactions on Multimedia, 2026
+- Fernandez-Menduiña, Samuel, Eduardo Pavez, Antonio Ortega. Image Coding for Machines via Feature-Preserving Rate-Distortion Optimization *IEEE Transactions on Multimedia, 2026*
 
 ### Conferences
-* Fernandez-Menduiña, Samuel, Hyomin Choi, Fabien Racapé, Eduardo Pavez, Antonio Ortega.<br>[Wrapper-Aware Rate-Distortion Optimization in Feature Coding for Machines]()<br>2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+- Fernandez-Menduiña, Samuel, Hyomin Choi, Fabien Racapé, Eduardo Pavez, Antonio Ortega. Wrapper-Aware Rate-Distortion Optimization in Feature Coding for Machines. *IEEE ICASSP 2026*
 
-* Sridhara, S. N., B. Kathariya, F. Pu, P. Yin, Eduardo Pavez, Antonio Ortega.<br>[Region-Adaptive Learned Hierarchical Encoding for 3D Gaussian Splatting Data](https://doi.org/10.1109/DCC62444.2026.00044)<br>2026 Data Compression Conference (DCC)
+- Sridhara, S. N., B. Kathariya, F. Pu, P. Yin, Eduardo Pavez, Antonio Ortega. Region-Adaptive Learned Hierarchical Encoding for 3D Gaussian Splatting Data. *DCC 2026*
 
-* Fernandez, Samuel, Eduardo Pavez, Antonio Ortega.<br>[L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations]()<br>2026 International Conference on Machine Learning (ICML)
+- Fernandez, Samuel, Eduardo Pavez, Antonio Ortega. L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations. *ICML 2026*
+**Spotlight paper**
 
-* Xiong, Xin, Samuel Fernandez-Menduiña, Eduardo Pavez, Antonio Ortega, Neil Birkbeck, Balu Adsumilli.<br>[Rate-Distortion Optimization for Ensembles of Non-Reference Metrics]()<br>2026 IEEE International Conference on Image Processing (ICIP)
+- Xiong, Xin, Samuel Fernandez-Menduiña, Eduardo Pavez, Antonio Ortega, Neil Birkbeck, Balu Adsumilli. Rate-Distortion Optimization for Ensembles of Non-Reference Metrics. *IEEE ICIP 2026*
 
-* Pakiyarajah, Darukeesan, Samuel Fernandez-Menduiña, Eduardo Pavez, Antonio Ortega, Debargha Mukherjee.<br>[FaSST: Fast Sparsifying Secondary Transform]()<br>2026 IEEE International Conference on Image Processing (ICIP)
+- Pakiyarajah, Darukeesan, Samuel Fernandez-Menduiña, Eduardo Pavez, Antonio Ortega, Debargha Mukherjee. FaSST: Fast Sparsifying Secondary Transform *IEEE ICIP 2026*
+**Top 3% paper**
 
-* Lu, Wen-Yang, Eduardo Pavez, Antonio Ortega, Roman Chernyak, Shan Liu.<br>[Reduced-complexity Adaptive Loop Filtering via Input-dependent Graph Filters]()<br>2026 IEEE International Conference on Image Processing (ICIP)
+- Lu, Wen-Yang, Eduardo Pavez, Antonio Ortega, Roman Chernyak, Shan Liu. Reduced-complexity Adaptive Loop Filtering via Input-dependent Graph Filters. *IEEE ICIP 2026*
+**Top 3% paper**
 
 ---
 
@@ -75,9 +78,6 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 ---
 
 ## 2024
-
-### Journals
-- R. Watanabe, S. N. Sridhara, H. Hong, E. Pavez, A. Ortega. Full Reference Point Cloud Quality Assessment Using Support Vector Regression. *Signal Processing: Image Communication, 2024*
 
 ### Conferences
 - S. N. Sridhara, E. Pavez, A. Ortega. Joint Graph Learning and Sampling Set Selection from Data. *Asilomar 2024 (Invited)*
