@@ -12,17 +12,14 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 
 ---
 
-* Ghosh, R., H. Wang, H. Hong, E. Pavez, A. Chaudhuri, W. Pang, H. V. Madhyastha, A. Ortega, R. Govindan.GS-NFS: Bandwidth-adaptive Streaming of Dynamic Gaussian Splats and Point Clouds.
-   [preprint](https://arxiv.org/abs/2606.05650)
+* Ghosh, R., H. Wang, H. Hong, E. Pavez, A. Chaudhuri, W. Pang, H. V. Madhyastha, A. Ortega, R. Govindan.GS-NFS: Bandwidth-adaptive Streaming of Dynamic Gaussian Splats and Point Clouds. [preprint](https://arxiv.org/abs/2606.05650)
 
-* Hong, H., E. Pavez, A. Ortega, R. Watanabe, K. Nonaka. Motion Estimation Techniques for Volumetric Video Attribute Compression.
-  [preprint](https://arxiv.org/abs/2607.03576)
+* Hong, H., E. Pavez, A. Ortega, R. Watanabe, K. Nonaka. Motion Estimation Techniques for Volumetric Video Attribute Compression. [preprint](https://arxiv.org/abs/2607.03576)
 
 *  S. N. Sridhara, E. Pavez, A. Jayawant, A. Ortega, R. Watanabe, K. Nonaka. Graph-based Scalable Sampling of 3D Point Cloud Attributes.  
   [preprint](https://arxiv.org/abs/2410.01027)
 
-* X. Xiong, S. Fernández-Menduina, E. Pavez, A. Ortega, N. Birkbeck, B. Adsumilli. Avoiding Quality Saturation in UGC Compression Using Denoised References. *arXiv*.  
-  [preprint](https://arxiv.org/abs/2511.16876)
+* X. Xiong, S. Fernández-Menduina, E. Pavez, A. Ortega, N. Birkbeck, B. Adsumilli. Avoiding Quality Saturation in UGC Compression Using Denoised References. *arXiv*. [preprint](https://arxiv.org/abs/2511.16876)
 
 ---
 
@@ -37,17 +34,14 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 - Sridhara, S. N., B. Kathariya, F. Pu, P. Yin, Eduardo Pavez, Antonio Ortega. Region-Adaptive Learned Hierarchical Encoding for 3D Gaussian Splatting Data. *DCC 2026*
 
 - Fernandez, Samuel, Eduardo Pavez, Antonio Ortega. L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations. *ICML 2026*
-
 **Spotlight paper**
 
 - Xiong, Xin, Samuel Fernandez-Menduiña, Eduardo Pavez, Antonio Ortega, Neil Birkbeck, Balu Adsumilli. Rate-Distortion Optimization for Ensembles of Non-Reference Metrics. *IEEE ICIP 2026*
 
 - Pakiyarajah, Darukeesan, Samuel Fernandez-Menduiña, Eduardo Pavez, Antonio Ortega, Debargha Mukherjee. FaSST: Fast Sparsifying Secondary Transform *IEEE ICIP 2026*
-
 **Top 3% paper**
 
 - Lu, Wen-Yang, Eduardo Pavez, Antonio Ortega, Roman Chernyak, Shan Liu. Reduced-complexity Adaptive Loop Filtering via Input-dependent Graph Filters. *IEEE ICIP 2026*
-
 **Top 3% paper**
 
 ---
