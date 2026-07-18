@@ -8,15 +8,17 @@ author_profile: true
 You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=O-I1ZnIAAAAJ&hl=en) and [arXiv](http://arxiv.org/a/pavez_e_1)
 
 {% include base_path %}
-Preprints
+##Preprints
 
 ---
 
-* Ghosh, R., H. Wang, H. Hong, E. Pavez, A. Chaudhuri, W. Pang, H. V. Madhyastha, A. Ortega, R. Govindan.GS-NFS: Bandwidth-adaptive Streaming of Dynamic Gaussian Splats and Point Clouds. *arXiv* [preprint](https://arxiv.org/abs/2606.05650)
+* Ghosh, R., H. Wang, H. Hong, E. Pavez, A. Chaudhuri, W. Pang, H. V. Madhyastha, A. Ortega, R. Govindan.GS-NFS: Bandwidth-adaptive Streaming of Dynamic Gaussian Splats and Point Clouds.
+   [preprint](https://arxiv.org/abs/2606.05650)
 
-* Hong, H., E. Pavez, A. Ortega, R. Watanabe, K. Nonaka. Motion Estimation Techniques for Volumetric Video Attribute Compression. *arXiv* [preprint](https://arxiv.org/abs/2607.03576)
+* Hong, H., E. Pavez, A. Ortega, R. Watanabe, K. Nonaka. Motion Estimation Techniques for Volumetric Video Attribute Compression.
+  [preprint](https://arxiv.org/abs/2607.03576)
 
-*  S. N. Sridhara, E. Pavez, A. Jayawant, A. Ortega, R. Watanabe, K. Nonaka. Graph-based Scalable Sampling of 3D Point Cloud Attributes. *arXiv*.  
+*  S. N. Sridhara, E. Pavez, A. Jayawant, A. Ortega, R. Watanabe, K. Nonaka. Graph-based Scalable Sampling of 3D Point Cloud Attributes.  
   [preprint](https://arxiv.org/abs/2410.01027)
 
 * X. Xiong, S. Fernández-Menduina, E. Pavez, A. Ortega, N. Birkbeck, B. Adsumilli. Avoiding Quality Saturation in UGC Compression Using Denoised References. *arXiv*.  
@@ -24,7 +26,7 @@ Preprints
 
 ---
 
-### 2026 
+## 2026 
 
 ### Journals
 * Fernandez-Menduiña, Samuel, Eduardo Pavez, Antonio Ortega.<br>[Image Coding for Machines via Feature-Preserving Rate-Distortion Optimization]()<br>IEEE Transactions on Multimedia, 2026
@@ -44,7 +46,7 @@ Preprints
 
 ---
 
-### 2025 
+## 2025 
 
 ### Journals
 * Silva, Jorge F., Victor Faraggi, Camilo Ramirez, Alvaro Egaña, Eduardo Pavez.<br>[Understanding Encoder--Decoder Structures in Machine Learning Using Information Measures]()<br>Signal Processing, 2025
