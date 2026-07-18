@@ -34,9 +34,8 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 
 - Sridhara, S. N., B. Kathariya, F. Pu, P. Yin, Eduardo Pavez, Antonio Ortega. Region-Adaptive Learned Hierarchical Encoding for 3D Gaussian Splatting Data. *DCC 2026*
 
-- Fernandez, Samuel, Eduardo Pavez, Antonio Ortega. L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations. *ICML 2026*
-  [project website](https://sf219.github.io/L2G_NET/) 
-  **Spotlight paper**
+- Fernandez, Samuel, Eduardo Pavez, Antonio Ortega. L2G-NET: Local to Global Spectral Graph Neural Networks via Cauchy Factorizations. *ICML 2026* [project website](https://sf219.github.io/L2G_NET/)   
+   **Spotlight paper**
 
 - Xiong, Xin, Samuel Fernandez-Menduiña, Eduardo Pavez, Antonio Ortega, Neil Birkbeck, Balu Adsumilli. Rate-Distortion Optimization for Ensembles of Non-Reference Metrics. *IEEE ICIP 2026*
 
