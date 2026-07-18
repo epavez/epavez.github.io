@@ -30,6 +30,9 @@ Work experience
 
 Awards
 ======
+
+* Best Paper Award 3rd place, Picture Coding Symposium (PCS) 2025
+
 * Best Paper Award, IEEE International Workshop on Multimedia Signal Processing (MMSP) 2024
 
 * Best Paper Award, IEEE International Conference on Image Processing (ICIP) 2024
@@ -38,6 +41,6 @@ Awards
 
 * Best Paper Award, IEEE International Conference on Image Processing (ICIP) 2020
 
-* 2nd place Best Student Paper Award, IEEE Picture Coding Symposium (PCS) 2015
+* 2nd place Best Student Paper Award, Picture Coding Symposium (PCS) 2015
 
 * Annenberg PhD. Fellowship, University of Southern California, 2013
