@@ -13,6 +13,7 @@ I am a research associate  at the University of Southern California working in  
 {% capture news %}
 News 
 =====
+* 07/2026: Updated publication list
 * 2024: Our paper with KDDI on 3D point cloud quality assesment using graph wavelets awarded best paper at ICIP 2024 
 * 2024: Our work on video coding for machines received Best paper award at IEEE MMSP 2024
 * 03/2023: Our paper on filter banks on arbitrary graphs was accepted to [IEEE TSP](https://doi.org/10.1109/TSP.2023.3257983) , here is the [preprint](https://arxiv.org/abs/2203.02858) and [code](https://github.com/STAC-USC/graph_filterbank_folding)
