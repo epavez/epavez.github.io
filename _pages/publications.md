@@ -9,7 +9,8 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 
 {% include base_path %}
 Preprints
-======
+
+---
 
 * Ghosh, R., H. Wang, H. Hong, E. Pavez, A. Chaudhuri, W. Pang, H. V. Madhyastha, A. Ortega, R. Govindan.GS-NFS: Bandwidth-adaptive Streaming of Dynamic Gaussian Splats and Point Clouds. *arXiv* [preprint](https://arxiv.org/abs/2606.05650)
 
@@ -22,6 +23,7 @@ Preprints
   [preprint](https://arxiv.org/abs/2511.16876)
 
 ---
+
 ### 2026 
 
 ### Journals
@@ -45,7 +47,6 @@ Preprints
 ### 2025 
 
 ### Journals
-
 * Silva, Jorge F., Victor Faraggi, Camilo Ramirez, Alvaro Egaña, Eduardo Pavez.<br>[Understanding Encoder--Decoder Structures in Machine Learning Using Information Measures]()<br>Signal Processing, 2025
 
 * Watanabe, R., S. N. Sridhara, H. Hong, E. Pavez, K. Nonaka, T. Kobayashi, A. Ortega.<br>[Full-reference Point Cloud Quality Assessment Using Support Vector Regression]()<br>Signal Processing: Image Communication, 2025
