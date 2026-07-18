@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=O-I1ZnIAAAAJ&hl=en) and [arXiv](http://arxiv.org/a/pavez_e_1)
+You can also find my papers on [Google Scholar](https://scholar.google.com/citations?hl=en&user=O-I1ZnIAAAAJ&view_op=list_works&sortby=pubdate) and [arXiv](http://arxiv.org/a/pavez_e_1)
 
 {% include base_path %}
 ## Preprints
