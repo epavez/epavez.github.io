@@ -16,10 +16,10 @@ You can also find my papers on [Google Scholar](https://scholar.google.com/citat
 
 * Hong, H., E. Pavez, A. Ortega, R. Watanabe, K. Nonaka. Motion Estimation Techniques for Volumetric Video Attribute Compression. [preprint](https://arxiv.org/abs/2607.03576)
 
-*  S. N. Sridhara, E. Pavez, A. Jayawant, A. Ortega, R. Watanabe, K. Nonaka. Graph-based Scalable Sampling of 3D Point Cloud Attributes.  
-  [preprint](https://arxiv.org/abs/2410.01027)
+*  S. N. Sridhara, E. Pavez, A. Jayawant, A. Ortega, R. Watanabe, K. Nonaka. Graph-based Scalable Sampling of 3D Point Cloud Attributes. 
+   [preprint](https://arxiv.org/abs/2410.01027)
 
-* X. Xiong, S. Fernández-Menduina, E. Pavez, A. Ortega, N. Birkbeck, B. Adsumilli. Avoiding Quality Saturation in UGC Compression Using Denoised References. *arXiv*. [preprint](https://arxiv.org/abs/2511.16876)
+* X. Xiong, S. Fernández-Menduina, E. Pavez, A. Ortega, N. Birkbeck, B. Adsumilli. Avoiding Quality Saturation in UGC Compression Using Denoised References. *arXiv*.  [preprint](https://arxiv.org/abs/2511.16876)
 
 ---
 
